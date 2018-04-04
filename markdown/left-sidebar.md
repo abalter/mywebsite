@@ -1,4 +1,4 @@
-![Ariel Balter](assets/img/ArielBalterHeadshot-600x600.jpg)
+<figure>![Ariel Balter](assets/img/ArielBalterHeadshot-600x600.jpg)</figure>
 
 ARIEL BALTER, PhD
 =================
@@ -12,6 +12,6 @@ ARIEL BALTER, PhD
 
 PAGES  
 -----
-- [Resume](#target=main&source=ariel-balter-resume.md)
-- [Academic CV](#target=main&source=ariel-balter-cv.md)
-- [Work Samples](#target=main&source=work-samples.md)
+- [Resume](#target=main&source=markdown/ariel-balter-resume.md)
+- [Academic CV](#target=main&source=markdown/ariel-balter-cv.md)
+- [Work Samples](#target=main&source=markdown/work-samples.md)

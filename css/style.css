@@ -9,7 +9,7 @@ body {
 h1, h2 {
   font-family: Bitter, sans-serif;
   font-weight: bolder;
-  padding; 0;
+  padding: 0;
   margin: 0;
   color: var(--dark-color);
   text-transform: uppercase;
@@ -24,6 +24,10 @@ h2 {
 }
 #left-sidebar img {
   width: 100%;
+}
+figure {
+  padding: 0;
+  margin: 0;
 }
 ul {
   margin: 0 0 0 0;
@@ -41,6 +45,7 @@ hr {
   border-top: 0.15em solid var(--dark-color);
   margin: 0.5rem 0 0 0;
   padding: 0; 
+  width: 100%;
 }
 p {
   display: block;
@@ -55,6 +60,11 @@ blockquote {
   padding: 0;
   font-size: 1rem;
   font-weight: 400;
+}
+#banner table {
+  width: 100%;
+  background-color: rgba(85, 85, 43, 0.2);
+  padding: 0 1rem;
 }
 a {
   text-decoration: underline;
@@ -104,6 +114,9 @@ a:hover {
   }
 }
 @media (max-width: 600px){
+  html {
+    font-size: 80%;
+  }
   .container {
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
