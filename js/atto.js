@@ -1,4 +1,3 @@
-
 var reader = new commonmark.Parser();
 var writer = new commonmark.HtmlRenderer();
 
