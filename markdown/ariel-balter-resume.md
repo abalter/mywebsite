@@ -1,8 +1,3 @@
-RESUME
-=================
-
-------------------------------------------------------------------------
-
 LEADING ACCOMPLISHMENTS
 -----------------------
 
@@ -21,22 +16,22 @@ LEADING ACCOMPLISHMENTS
 SKILLS
 ------
 
--   Programming Languages (level): Python (strong). Matlab (strong).
+-   **Programming Languages:** (level): Python (strong). Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL
     (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable).
--   Data Science (including Bioinformatics): Data cleanup and
+-   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
     Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
     RNA-Seq). Conda package management.
--   Data Stack: Python (Pandas, SciPy, NumPy, Matplotlib, Seaborn,
+-   **Data Stack:** Python (Pandas, SciPy, NumPy, Matplotlib, Seaborn,
     Jupyter). R ( data.table, data.frame, ggplot2). Shell tools.
     PlotlyJS.
--   Bioinformatics Stack: Aligners (BWA, STAR). Peak callers (MACS2,
+-   **Bioinformatics Stack:** Aligners (BWA, STAR). Peak callers (MACS2,
     EPIC). PICA RD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
--   Linux: Server setup. Package management. Shell tools (Awk. Sed.
+-   **Linux:** Server setup. Package management. Shell tools (Awk. Sed.
     Regex. Etc.) . Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
--   Basic Web Programming: Static websites. Responsive design.
+-   **Basic Web Programming:** Static websites. Responsive design.
     Wordpress.
 
 EDUCATION

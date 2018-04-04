@@ -1,25 +1,35 @@
+import {default_pageloads, initial_page, routes} from './script.js';
+console.log(default_pageloads);
+
 var reader = new commonmark.Parser();
 var writer = new commonmark.HtmlRenderer();
 
-var default_page = "ariel-balter-resume.md";
+$(document).ready(initializePage);
 
-$(document).ready(function()
+function initializePage()
 {
   console.log('document ready');
-  let url = window.location.href;
+  let url = window.location.href.replace(/#$/,'');
   console.log("current url: " + url);
   //processRequest(url);
-  console.log("rendering sidebar");
-  renderMarkdown('markdown/left-sidebar.md', 'left-sidebar');
-  if (window.location.hash == "")
+  
+  console.log("processing default pages");
+  for (let request of default_pageloads)
   {
-    renderMarkdown('markdown/' + default_page, 'main');
+    renderMarkdown(request.source, request.target);
+  }
+  console.log("hash=" + window.location.hash);
+  
+  if (typeof window.location.hash == 'undefined' || window.location.hash == '')
+  {
+    console.log("no hash");
+    renderMarkdown(initial_page.source, initial_page.target);
   }
   else
   {
     processRequest(url);
   }
-});
+}
 
 $(window).on('hashchange', function()
 {
@@ -36,7 +46,7 @@ function processRequest(location)
   console.log(request_items);
   //text = JSON.stringify(request_items);
   //console.log("text: " + text);
-  renderMarkdown("markdown/" + request_items.source, request_items.target);
+  renderMarkdown(request_items.source, request_items.target);
   setLinkEvents();
 }
 
@@ -86,17 +96,38 @@ function renderMarkdown(source, target)
         console.log(data);
         var parsed = reader.parse(data);
         var html = writer.render(parsed);
+        html = marked(data);
         console.log("printing html");
         console.log(html);
         placeMarkdown(html, target);
     });
 
-
 }
 
 function placeMarkdown(html, target)
 {
-    $("#" + target).html(html);
+  console.log("placeMarkdown");
+  console.log("target=" + target);
+  let target_parts = target.split('.');
+  console.log("target parts: " + JSON.stringify(target_parts));
+  console.log("first part: " + target_parts[0]);
+  let target_element = $('#' + target_parts[0]);
+  console.log("first element");
+  console.log(target_element);
+  
+  if (target_parts.length > 1)    
+  {
+    console.log("more parts");
+    for (let next_element of target_parts.slice(1,))
+    {
+      console.log("next_element: " + next_element);
+      target_element = $(target_element).find('#' + next_element);
+    }
+  }
+  
+  console.log(target_element);
+  
+  target_element.html(html);
 }
 
 
