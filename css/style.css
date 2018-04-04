@@ -9,7 +9,7 @@ body {
 h1, h2 {
   font-family: Bitter, sans-serif;
   font-weight: bolder;
-  padding; 0;
+  padding: 0;
   margin: 0;
   color: var(--dark-color);
   text-transform: uppercase;
@@ -64,12 +64,15 @@ p {
     padding: 1rem;
     display: grid;
     grid-template-columns: 2fr 4fr 2fr;
-    grid-template-areas: 'portrait name right-sidebar';
+    grid-template-areas: 'left-sidebar main right-sidebar';
     grid-gap: 2rem;
 }
 #left-sidebar {
   grid-area: left-sidebar;
   min-width: 240px;
+}
+#left-sidebar img {
+  width: 100%;
 }
 #main {
   grid-area: main;
