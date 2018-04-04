@@ -15,23 +15,23 @@ h1, h2 {
   text-transform: uppercase;
 }
 h1 {
-  margin: 0em 0 0.25em 0;
-  font-size: 1.6rem;
+  margin: 0.5rem 0 0 0;
+  font-size: 1.8rem;
 }
 h2 {
-  margin: 1em 0 0.1em 0;
+  margin: 0.5rem 0 0 0;
   font-size: 1.4rem;
 }
 #left-sidebar img {
   width: 100%;
 }
 ul {
-  margin: 0;
+  margin: 0 0 0 0;
   list-style-position: outside;
   padding-left: 1em;
 }
 li {
-  margin: 0.3em 0;
+  margin: 0.5rem 0 0 0;
   text-indent: 0em;
 }
 hr {
@@ -39,8 +39,16 @@ hr {
   height: 0px;
   border: 0;
   border-top: 0.15em solid var(--dark-color);
-  margin: 0.1em 0;
+  margin: 0.5rem 0 0 0;
   padding: 0; 
+}
+p {
+  display: block;
+  margin: 0.5rem 0;
+}
+blockquote {
+  padding: 0 0 0 0rem;
+  text-indent: -2rem;
 }
 #contact {
   margin: 0;
@@ -56,15 +64,11 @@ a:hover {
   color: var(--dark-color);
   font-weight: 900;
 }
-p {
-  margin: 0;
-  padding-left: 0em;
-}
 .container {
     padding: 1rem;
     display: grid;
     grid-template-columns: 2fr 4fr 2fr;
-    grid-template-areas: 'portrait name right-sidebar';
+    grid-template-areas: 'left-sidebar main right-sidebar';
     grid-gap: 2rem;
 }
 #left-sidebar {

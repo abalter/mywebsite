@@ -1,20 +1,23 @@
+alert("atto");
+
+import {default_pageloads} from './script.js';
+console.log(default_pageloads);
 
 var reader = new commonmark.Parser();
 var writer = new commonmark.HtmlRenderer();
 
-var default_page = "ariel-balter-resume.md";
-
-$(document).ready(function()
+$(document).load(function()
 {
   console.log('document ready');
   let url = window.location.href;
   console.log("current url: " + url);
   //processRequest(url);
-  console.log("rendering sidebar");
-  renderMarkdown('markdown/left-sidebar.md', 'left-sidebar');
   if (window.location.hash == "")
   {
-    renderMarkdown('markdown/' + default_page, 'main');
+    for (request of default_pageloads)
+    {
+      renderMarkdown(request.source, request.target);
+    }
   }
   else
   {
