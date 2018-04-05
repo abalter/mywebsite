@@ -1,0 +1,27 @@
+.nav-items {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.nav-items a {
+  text-align: center;
+}
+.nav-items a:hover {
+  color: red;
+}
+#menu-toggle {
+  display: none;
+  margin: 0 auto;
+}
+@media screen and (max-width: 600px) {
+  .nav-items {
+    display: none;
+    flex-direction: column;
+    align-content: center;
+    margin: 1rem auto;
+  }
+  #menu-toggle {
+    display: block;
+  }
+}

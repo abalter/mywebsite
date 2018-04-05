@@ -1,3 +1,5 @@
+@import 'nav.css';
+
 html {
   --dark-color: #55552b;
   background: #77777;
