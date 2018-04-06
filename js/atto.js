@@ -291,3 +291,5 @@ export let atto = function(default_pageloads, initial_content, routes)
         return (x != '') && (!x) && (typeof x != 'undefined') && (x != null) && (x == 'undefined');
     }
 }
+
+//g.match(/([\w\.\/\-:]+)[\?|#]?([\w,&-\.=]+)?/).map( (x) => x.match(/&?([\w\.\-]+=[\w\.\-]+)/))[2]
