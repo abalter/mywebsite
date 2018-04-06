@@ -46,7 +46,7 @@ hr {
   border: 0;
   border-top: 0.15em solid var(--dark-color);
   margin: 0.5rem 0 0 0;
-  padding: 0; 
+  padding: 0;
   width: 100%;
 }
 p {
@@ -69,7 +69,7 @@ blockquote {
   padding: 0.5rem 1rem 0.1rem 1rem;
   font-family: Bitter;
 }
-#banner h1 a, table a {
+#banner h1 a {
   text-decoration: none;
 }
 a {

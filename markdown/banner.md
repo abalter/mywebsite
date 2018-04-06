@@ -1,8 +1,8 @@
 ## menu
-* [resume](#source=markdown/ariel-balter-resume.md&target=center.main)
-* [academic CV](#source=markdown/ariel-balter-cv.md&target=center.main)
-* [work samples](#source=markdown/work-samples.md&target=center.main)
-* [bio](#source=markdown/bio.md&target=center.main)
+* [resume](?source=markdown/ariel-balter-resume.md&target=center.main)
+* [academic CV](?source=markdown/ariel-balter-cv.md&target=center.main)
+* [work samples](?source=markdown/work-samples.md&target=center.main)
+* [bio](?source=markdown/bio.md&target=center.main)
 
 [ARIEL BALTER, Ph.D]( )
 ======================
