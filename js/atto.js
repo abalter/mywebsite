@@ -1,25 +1,33 @@
 import {default_pageloads, initial_page, routes} from './script.js';
 console.log(default_pageloads);
 
-var reader = new commonmark.Parser();
-var writer = new commonmark.HtmlRenderer();
-
+// Set up the original page
 $(document).ready(initializePage);
+
+// Capture hash changes and process new request
+$(window).on('hashchange', function()
+{
+  console.log('hashchange');
+  console.log(window.location.href);
+  processRequest(window.location.href);
+});
 
 function initializePage()
 {
   console.log('document ready');
+  
+  // get the url but strip any trailing # in case of 
+  // trailing # but empty hash
   let url = window.location.href.replace(/#$/,'');
   console.log("current url: " + url);
-  //processRequest(url);
-  
+
   console.log("processing default pages");
   for (let request of default_pageloads)
   {
     renderMarkdown(request.source, request.target);
   }
   console.log("hash=" + window.location.hash);
-  
+
   if (typeof window.location.hash == 'undefined' || window.location.hash == '')
   {
     console.log("no hash");
@@ -30,13 +38,6 @@ function initializePage()
     processRequest(url);
   }
 }
-
-$(window).on('hashchange', function()
-{
-  console.log('hashchange');
-  console.log(window.location.href);
-  processRequest(window.location.href);
-});
 
 function processRequest(location)
 {
@@ -82,8 +83,6 @@ function setLinkEvents()
         console.log("href=" + href);
         e.preventDefault();
         window.location.hash = href;
-        processRequest(window.location.href);
-        //window.history.pushState({}, href, href);
     }
   });
 }
@@ -114,8 +113,8 @@ function placeMarkdown(html, target)
   let target_element = $('#' + target_parts[0]);
   console.log("first element");
   console.log(target_element);
-  
-  if (target_parts.length > 1)    
+
+  if (target_parts.length > 1)
   {
     console.log("more parts");
     for (let next_element of target_parts.slice(1,))
@@ -124,9 +123,9 @@ function placeMarkdown(html, target)
       target_element = $(target_element).find('#' + next_element);
     }
   }
-  
+
   console.log(target_element);
-  
+
   target_element.html(html);
 }
 
