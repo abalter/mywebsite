@@ -1,6 +1,6 @@
 console.log('config.js');
 
-import {Atto} from './js/atto-minus.js';
+import {Atto} from './js/atto.js';
 
 var default_content =
 [
