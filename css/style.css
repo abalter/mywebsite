@@ -110,19 +110,20 @@ a:hover {
    }
   #left-sidebar {
     grid-area: left-sidebar;
-    font-size: 0.8rem;
     min-width: inherit;
   }
   #main {
     grid-area: main;
     min-width: inherit;
-    font-size: 0.8rem;
   }
   #right-sidebar {
     display: none;
   }
 }
 @media (max-width: 600px){
+    html {
+        font-size: 90%;
+    }
   .container {
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
