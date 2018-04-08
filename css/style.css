@@ -123,9 +123,6 @@ a:hover {
   }
 }
 @media (max-width: 600px){
-  html {
-    font-size: 80%;
-  }
   .container {
     grid-template-columns: 100%;
     grid-template-rows: auto auto;
