@@ -36,6 +36,7 @@
         flex-direction: column;
         align-content: center;
         margin: 1rem auto;
+		font-size: 1.5rem;
     }
     .menu-toggle {
         display: block;

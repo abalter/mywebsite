@@ -1,10 +1,11 @@
 console.log('config.js');
 
 import {Atto} from './js/atto.js';
+import configureNav from './js/nav.js';
 
 var default_content =
 [
-  {target: 'center.banner', source: 'markdown/banner.md'},
+  {target: 'center.banner', source: 'markdown/banner.md', callback: configureNav},
   {target: 'left-sidebar', source: 'markdown/left-sidebar.md'},
 ];
 

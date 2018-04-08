@@ -8,7 +8,7 @@ class Atto
         console.log(this.default_content);
         this.initial_content = initial_content;
         this.routes = routes;
-        // this.initializeApp();
+        this.initializeApp();
     }
 
     initializeApp()
@@ -234,35 +234,7 @@ class URL
             // {split[0] : split[1]} equiv. {a : b}
             let key = parts[0];
             let value = parts[1];
-<<<<<<< HEAD
             this.query_object[key] = value;
-=======
-            request_object[key] = value;
-        });
-        console.log(request_object);
-        return request_object;
-    }
-
-    function setLinkEvents()
-    {
-        console.log("setLinkEvents");
-
-        $('a').on('click', function(e)
-        {
-            console.log("setting click event");
-            e.preventDefault();
-            let href = $(this).attr('href');
-            console.log(`link href=${href}`);
-            if (href.search(/\?/) != -1)
-            {
-                console.log("href=" + href);
-                e.preventDefault();
-                //window.location.hash = href;
-                //window.history.pushState({}, href, href);
-                window.location.replace(href);
-                ProcessQuery(window.location.href);
-            }
->>>>>>> origin/oop
         });
         console.log(this.query_object);
         return this.query_object;
