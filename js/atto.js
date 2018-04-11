@@ -160,13 +160,22 @@ class Atto
 
         $('a').on('click', function(e)
         {
-            console.log("setting click event");
-            e.preventDefault();
             let href = $(this).attr('href');
-            console.log(`link href=${href}`);
 
-            // Update the hash with new request
-            window.location.hash = href;
+            if (href.match(/^#/))
+            {
+                console.log("setting click event");
+                e.preventDefault();
+                // console.log(`link href=${href}`);
+
+                // Update the hash with new request
+                window.location.hash = href;
+
+                return;
+            }
+
+            $(this).attr('target', "_blank");
+
         });
     }
 }
