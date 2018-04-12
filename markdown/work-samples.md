@@ -2,9 +2,12 @@
 Personal Project
 ----------------
 
--   This is something I'm dabling at to keep my hands dirty.
+-   Got my first GitHub star on this one:
 
     <https://github.com/abalter/polyglottus>
+    
+-   Framework I designed for my website:
+    <https://github.com/abalter/attoweb>
 
 Websites:
 ---------
