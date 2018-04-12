@@ -1,5 +1,5 @@
 
-Personal Project
+Personal Projects
 ----------------
 
 -   Got my first GitHub star on this one:
