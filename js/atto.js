@@ -1,6 +1,6 @@
 class Atto
 {
-    constructor(default_content, initial_content, routes)
+    constructor(default_content, initial_content, routes, base_url="")
     {
         console.log("Atto.constructor");
 
@@ -9,6 +9,7 @@ class Atto
         this.initial_content = initial_content;
         this.routes = routes;
         this.initializeApp();
+        this.base_url = base_url;
     }
 
     initializeApp()
@@ -90,13 +91,14 @@ class Atto
 
         if ('source' in query_obj && 'target' in query_obj)
         {
-            let source = query_obj.source;
+            let source = this.base_url + query_obj.source;
             let target = query_obj.target;
 
             let $self = this;
 
             return $.get(source, function(markdown, status)
             {
+                console.log("ajaxing source " + source);
                 console.log(markdown);
 
                 // render the markdown to HTML

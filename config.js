@@ -3,10 +3,12 @@ console.log('config.js');
 import {Atto} from './js/atto.js';
 import configureNav from './js/nav.js';
 
+var base_url = "https://raw.githubusercontent.com/abalter/mywebsite/master/";
+
 var default_content =
 [
-  {target: 'center.banner', source: 'markdown/banner.md', callback: configureNav},
-  {target: 'left-sidebar', source: 'markdown/left-sidebar.md'},
+  {target: 'center.banner', source: base_url + 'markdown/banner.md', callback: configureNav},
+  {target: 'left-sidebar', source: base_url + 'markdown/left-sidebar.md'},
 ];
 
 console.log("default_content");
@@ -20,7 +22,7 @@ var routes =
   bio: {path: "content/text", source: "bio.md"}
 };
 
-var initial_content = {target: 'center.main', source: 'markdown/ariel-balter-resume.md'};
+var initial_content = {target: 'center.main', source: base_url + 'markdown/ariel-balter-resume.md'};
 
-var app = new Atto(default_content, initial_content, routes);
+var app = new Atto(default_content, initial_content, routes, base_url);
 app.initializeApp();
