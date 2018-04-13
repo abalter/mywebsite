@@ -1,2 +1,3 @@
 # attoweb
-A ridiculously small client-side web framework
+A ridiculously small, pseudo-dynamic, fully client-side web framerwork with a RESTful API.
+
