@@ -1,3 +1,3 @@
-# attoweb
-A ridiculously small, pseudo-dynamic, fully client-side web framerwork with a RESTful API.
+# [arielbalter.com](http://arielbalter.com)
+I built this website using the [AttoWeb](https://github.com/abalter/attoweb) framework that I wrote in order to build [this website](https://github.com/abalter/mywebsite).
 
