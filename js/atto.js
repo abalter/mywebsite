@@ -41,7 +41,6 @@ class Atto
     initializePage()
     {
         console.log("Atto.initializePage");
-        this.insertHTML('a','b');
 
         // Since this is a new request, place all of the default
         // content.
