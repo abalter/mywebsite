@@ -1,0 +1,137 @@
+/*@import 'nav.css';*/
+
+html {
+  --dark-color: #55552b;
+  background: #77777;
+  font-size: 100%;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+h1, h2 {
+  font-family: Bitter, sans-serif;
+  font-weight: bolder;
+  padding: 0;
+  margin: 0;
+  color: var(--dark-color);
+  text-transform: uppercase;
+}
+h1 {
+  margin: 0.5rem 0 0 0;
+  font-size: 1.8rem;
+}
+h2 {
+  margin: 0.5rem 0 0 0;
+  font-size: 1.4rem;
+}
+#left-sidebar img {
+  width: 100%;
+}
+figure {
+  padding: 0;
+  margin: 0;
+}
+ul {
+  margin: 0 0 0 0;
+  list-style-position: outside;
+  padding-left: 1em;
+}
+li {
+  margin: 0.5rem 0 0 0;
+  text-indent: 0em;
+}
+hr {
+  display: block;
+  height: 0px;
+  border: 0;
+  border-top: 0.15em solid var(--dark-color);
+  margin: 0.5rem 0 0 0;
+  padding: 0;
+  width: 100%;
+}
+p {
+  display: block;
+  margin: 0.5rem 0;
+}
+blockquote {
+  padding: 0 0 0 0rem;
+  text-indent: -2rem;
+}
+#contact {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-weight: 400;
+}
+#banner table {
+  width: 100%;
+  background-color: rgba(85, 85, 43, 0.3);
+  padding: 0.5rem 1rem 0.1rem 1rem;
+  font-family: Bitter;
+}
+#banner h1 a {
+  text-decoration: none;
+}
+a {
+  text-decoration: underline;
+  color: inherit;
+}
+a:hover {
+  color: var(--dark-color);
+  font-weight: 900;
+}
+.container {
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: 2fr 4fr 2fr;
+    grid-template-areas: 'left-sidebar main right-sidebar';
+    grid-gap: 2rem;
+}
+#left-sidebar {
+  grid-area: left-sidebar;
+  min-width: 240px;
+}
+#left-sidebar img {
+  width: 100%;
+}
+#main {
+  grid-area: main;
+  min-width: 360px;
+  max-width: 800px;
+}
+#right-sidebar {
+  grid-area: right-sidebar;
+}
+@media (max-width: 800px){
+  .container {
+      display: grid;
+      grid-template-columns: 2fr 4fr;
+      grid-template-areas: 'left-sidebar main';
+   }
+  #left-sidebar {
+    grid-area: left-sidebar;
+    min-width: inherit;
+  }
+  #main {
+    grid-area: main;
+    min-width: inherit;
+  }
+  #right-sidebar {
+    display: none;
+  }
+}
+@media (max-width: 600px){
+    h1 {
+        font-size: 1.6rem;
+    }
+    h2 {
+        font-size: 1.4rem;
+    }
+  .container {
+    grid-template-columns: 100%;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+      'left-sidebar'
+      'main';
+  }
+}
