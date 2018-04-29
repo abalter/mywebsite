@@ -1,7 +1,7 @@
 console.log('config.js');
 
 var base_url = "https://raw.githubusercontent.com/abalter/mywebsite/master/";
-base_url = "";
+// base_url = "";
 
 var default_content =
 [

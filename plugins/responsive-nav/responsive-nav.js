@@ -2,7 +2,7 @@ console.log('nav.js');
 
 // function configureNav()
 // {
-    // alert("configuring nav");
+   // alert("configuring nav");
     console.log("configuring nav");
 
     let menu_toggle = $('#nav').find('h2:contains("menu")');
