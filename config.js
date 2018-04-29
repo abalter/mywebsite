@@ -7,10 +7,11 @@ var default_content =
 [
   {target: 'center.banner', source: 'content/banner.md'},
   {target: 'left-sidebar', source: 'content/left-sidebar.md'},
-  {target: 'banner', source: 'content/banner.md'}
+  {target: 'banner', source: 'content/banner.md'},
+  {target: 'nav', source: 'content/nav.md', callback: 'plugins/responsive-nav/responsive-nav.js'}
 ];
 
-var plugins = ['responsive-nav'];
+//var plugins = ['responsive-nav'];
 
 console.log("default_content");
 console.log(default_content);
@@ -27,7 +28,6 @@ var initial_content = {target: 'main', source: 'content/ariel-balter-resume.md'}
 
 var configs =
 {
-    plugins: plugins,
     default_content: default_content,
     initial_content: initial_content,
     base_url: base_url

@@ -1,14 +1,14 @@
 console.log('nav.js');
 
-function configureNav()
-{
-    //alert("configuring nav");
+// function configureNav()
+// {
+    // alert("configuring nav");
     console.log("configuring nav");
 
-    let menu_toggle = $('#banner').find('h2:contains("menu")');
+    let menu_toggle = $('#nav').find('h2:contains("menu")');
     $(menu_toggle).addClass('menu-toggle')
 
-    let nav_items = $('#banner').find('ul');
+    let nav_items = $('#nav').find('ul');
     $(nav_items).addClass('nav-items');
 
     $('.menu-toggle').on('click', (e) =>
@@ -39,11 +39,16 @@ function configureNav()
         location = location;
         console.log(`width: ${$(window).width()} display: ${$('.nav-items').css('display')}`)
     });
-}
 
-$(document).ready(()=>
-{
-    configureNav();
-});
+    $("<link/>",
+    {
+        rel: "stylesheet",
+        type: "text/css",
+        href: 'plugins/responsive-nav/responsive-nav.css'
+    })
+    .appendTo("head");
+// }
+
+// configureNav();
 
 // export default configureNav;
