@@ -1,4 +1,4 @@
-<figure>![Ariel Balter](assets/img/ArielBalterHeadshot-600x600.jpg)</figure>
+![Ariel Balter](assets/img/ArielBalterHeadshot-600x600.jpg)
 
 ----------------------------------------------------------------------------------------------
 ARIEL BALTER, Ph.D

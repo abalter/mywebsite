@@ -1,4 +1,4 @@
-var debug_level = 2;
+var debug_level = 3;
 
 class Atto
 {
@@ -105,6 +105,7 @@ class Atto
 
             return $.get(source, function(markdown, status)
             {
+                debug("the markdown:", 3);
                 debug(markdown, 3);
 
                 // render the markdown to HTML
