@@ -4,7 +4,7 @@ LEADING ACCOMPLISHMENTS
     analysis code to a computing cluster. This saved time and improved
     consistency of results.
 -   Organized and led two successful workshops on bioinformatics
-    computing skills. Close to 100 students, postdocs, and faculty
+    computing skills. 100+ students, postdocs, and faculty
     attended each one. Workshop content published on GitHub.
 -   Implemented original system to extract and organize crops from stained cancer
     tissue images. Increased the investigators' throughput by a factor of
@@ -23,6 +23,7 @@ SKILLS
 -   **Programming Languages:** (level): Python (strong). Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL
     (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable).
+    Git (strong). GitHub
 -   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
     Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
@@ -31,7 +32,7 @@ SKILLS
     Jupyter). R (data.table, data.frame, ggplot2). Shell tools.
     PlotlyJS.
 -   **Bioinformatics Stack:** Aligners (BWA, STAR). Peak callers (MACS2,
-    EPIC). PICA RD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
+    EPIC). PICARD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
 -   **Linux:** Server setup. Package management. Shell tools (Awk. Sed.
     Regex. Etc.) . Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
@@ -41,8 +42,8 @@ SKILLS
 EDUCATION
 ---------
 -   AAS Software Development (2015) Columbia Basin College
--   Ph.D. Physics (2005) Indiana University. Outstanding Graduate
-    Student in Research.
+-   Ph.D. Physics (2005) Indiana University: _Outstanding Graduate
+    Student in Research_.
 
 ABOUT ME
 --------
