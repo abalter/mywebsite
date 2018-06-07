@@ -4,7 +4,7 @@ LEADING ACCOMPLISHMENTS
     analysis code to a computing cluster. This saved time and improved
     consistency of results.
 -   Organized and led two successful workshops on bioinformatics
-    computing skills. Close to 100 students, postdocs, and faculty
+    computing skills. 100+ students, postdocs, and faculty
     attended each one. Workshop content published on GitHub.
 -   Implemented original system to extract and organize crops from stained cancer
     tissue images. Increased the investigators' throughput by a factor of
@@ -13,7 +13,7 @@ LEADING ACCOMPLISHMENTS
 -   Co-Published novel computer models for atomic-scale reaction-diffusion systems
     (31 citations).
 -   Organized and maintained software inventory for computational scientists.
--   Improved storage and retrieval of historical video images at a government
+-   Improved storage and retrieval of historical video documents at a government
     facility.
 
 SKILLS
@@ -23,6 +23,7 @@ SKILLS
 -   **Programming Languages:** (level): Python (strong). Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL
     (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable).
+    Git (strong). GitHub
 -   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
     Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
@@ -31,7 +32,7 @@ SKILLS
     Jupyter). R (data.table, data.frame, ggplot2). Shell tools.
     PlotlyJS.
 -   **Bioinformatics Stack:** Aligners (BWA, STAR). Peak callers (MACS2,
-    EPIC). PICA RD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
+    EPIC). PICARD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
 -   **Linux:** Server setup. Package management. Shell tools (Awk. Sed.
     Regex. Etc.) . Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
