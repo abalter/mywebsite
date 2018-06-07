@@ -22,8 +22,8 @@ SKILLS
     Healthcare.
 -   **Programming Languages:** (level): Python (strong). Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL
-    (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable).
-    Git (strong). GitHub
+    (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable). ColdFusion
+    (knowledgeable). Git (strong).GitHub
 -   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
     Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
@@ -36,8 +36,8 @@ SKILLS
 -   **Linux:** Server setup. Package management. Shell tools (Awk. Sed.
     Regex. Etc.) . Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
--   **Basic Web Development:** UI design. Responsive design.
-    Wordpress.
+-   **Basic Web Development:** Static, dynamic, and database-driven.
+    UI design. Responsive design. Wordpress. MVC.
 
 EDUCATION
 ---------
