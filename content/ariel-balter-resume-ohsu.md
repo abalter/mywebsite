@@ -41,8 +41,8 @@ SKILLS
 EDUCATION
 ---------
 -   AAS Software Development (2015) Columbia Basin College
--   Ph.D. Physics (2005) Indiana University. Outstanding Graduate
-    Student in Research.
+-   Ph.D. Physics (2005) Indiana University: _Outstanding Graduate
+    Student in Research_.
 
 ABOUT ME
 --------
