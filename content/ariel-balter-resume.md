@@ -27,7 +27,8 @@ SKILLS
 -   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
     Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
-    RNA-Seq). Conda package management. Data management. Data analysis.
+    RNA-Seq). Conda package management. Data management. Data analysis. 
+    Database design.
 -   **Data Stack:** Python (Pandas, SciPy, NumPy, Matplotlib, Seaborn,
     Jupyter). R (data.table, data.frame, ggplot2). Shell tools.
     PlotlyJS.
