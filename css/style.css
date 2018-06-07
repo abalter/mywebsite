@@ -17,11 +17,11 @@ h1, h2 {
   text-transform: uppercase;
 }
 h1 {
-  margin: 0.5rem 0 0 0;
+  margin: 1em 0 0 0;
   font-size: 1.8rem;
 }
 h2 {
-  margin: 0.5rem 0 0 0;
+  margin: 1em 0 0 0;
   font-size: 1.4rem;
 }
 #left-sidebar img {
