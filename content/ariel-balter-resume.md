@@ -23,7 +23,7 @@ SKILLS
 -   **Programming Languages:** (level): Python (strong). Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL
     (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable). ColdFusion
-    (knowledgeable). Git (strong).GitHub
+    (knowledgeable). Git (strong). Shell tools (Awk, Sed, Regex, Etc.) (strong).
 -   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
     Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
@@ -33,8 +33,7 @@ SKILLS
     PlotlyJS.
 -   **Bioinformatics Stack:** Aligners (BWA, STAR). Peak callers (MACS2,
     EPIC). PICARD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
--   **Linux:** Server setup. Package management. Shell tools (Awk. Sed.
-    Regex. Etc.) . Users/Groups/Permissions/ACLs. Web server
+-   **Linux:** Server setup. Package management. Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
 -   **Basic Web Development:** Static, dynamic, and database-driven.
     UI design. Responsive design. Wordpress. MVC.
