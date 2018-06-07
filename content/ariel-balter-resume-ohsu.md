@@ -3,9 +3,9 @@ LEADING ACCOMPLISHMENTS
 -   Automated submitting ChIP-Seq and RNA-Seq next-generation sequencing
     analysis code to a computing cluster. This saved time and improved
     consistency of results.
--   Organized and led two successful workshops on bioinformatics
-    computing skills. 100+ students, postdocs, and faculty
-    attended each one. Workshop content published on GitHub.
+-   Organized and led two successful workshops on computing skills. 100+ 
+    students, postdocs, and faculty attended each one. Workshop content 
+    published on GitHub.
 -   Implemented original system to extract and organize crops from stained cancer
     tissue images. Increased the investigators' throughput by a factor of
     100x (33 citations).
