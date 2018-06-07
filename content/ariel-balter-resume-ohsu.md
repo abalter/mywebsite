@@ -13,7 +13,7 @@ LEADING ACCOMPLISHMENTS
 -   Co-Published novel computer models for atomic-scale reaction-diffusion systems
     (31 citations).
 -   Organized and maintained software inventory for computational scientists.
--   Improved storage and retrieval of historical video images at a government
+-   Improved storage and retrieval of historical video documents at a government
     facility.
 
 SKILLS
