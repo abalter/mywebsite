@@ -2,6 +2,8 @@
 EMPLOYMENT
 ----------
 
+>**7/2018-present: Computational Biologist** Oregon Health and Science University, Portland OR
+
 >**11/2015-6/2017: Computational Biologist** Oregon Health and Science University, Portland OR  
 
 >**7/2014-11/2015: IT Specialist** HAMMER Volpentest Federal Training
