@@ -7,4 +7,4 @@ ARIEL BALTER, Ph.D
 
 ## About this website:
 I built this website using the [AttoWeb](http://attoweb.org) framework
-that I wrote in order to build [this website](https://github.com/abalter/mywebsite). test
+that I wrote in order to build [this website](https://github.com/abalter/mywebsite).
