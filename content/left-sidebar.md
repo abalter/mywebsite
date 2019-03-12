@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------
 ARIEL BALTER, Ph.D
 
->"Don't belive everything you think." &mdash; _Allan Lokos_
+>"Don't believe everything you think." &mdash; _Allan Lokos_
 
 ## About this website:
 I built this website using the [AttoWeb](http://attoweb.org) framework
