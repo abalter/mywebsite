@@ -1,3 +1,7 @@
+CURRENT POSITION
+-----------------
+June 2018-present: Computational Biologist in the Casey Eye Center at Oregon Health and Science University, Portland OR  
+
 LEADING ACCOMPLISHMENTS
 -----------------------
 -   Automated submitting ChIP-Seq and RNA-Seq next-generation sequencing
