@@ -18,11 +18,11 @@ LEADING ACCOMPLISHMENTS
 
 SKILLS
 ------
--   **Research:** Physics, Computational Biology, Biophysics, Bioinformatics, 
+-   **Research:** Physics, Computational Biology, Biophysics, Biostatistics, Bioinformatics, 
     Clinical, Healthcare.
--   **Programming Languages:** (level): Python (strong). Matlab (strong).
+-   **Programming Languages:** (level): Python (strong). R (strong), Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL
-    (knowledgeable). Visual Basic (knowledgeable). R (knowledgeable). ColdFusion
+    (knowledgeable). Visual Basic (knowledgeable). ColdFusion
     (knowledgeable). Git (strong). Shell tools (awk, sed, regex, etc.) (strong).
 -   **Data Science (including Bioinformatics):** Data cleanup and
     normalization. Multi-language pipelines. Statistical analysis.
