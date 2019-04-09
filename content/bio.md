@@ -12,4 +12,4 @@ At this point in my life, I'm looking for a job that is flexible yet challenging
 my work/life balance needs more than pay or position.
 
 I currently live in Portland Oregon with my amazing wife Karen, our son Tov, our lovable-but-no-so-bright
-Poodle mix Cooper, and whatever pets Tov has at the moment.
+Poodle mix Cooper, our playful kitten Mr. Muffing Maker, and whatever other pets Tov has at the moment.
