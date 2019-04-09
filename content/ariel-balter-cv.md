@@ -56,9 +56,9 @@ Bloomington, IN, May 2005.
 PUBLICATIONS (peer reviewed)
 ----------------------------
 
->**Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer** _Coleman et al._ [Nature Scientific Reports, Vol. 8, 3823 (2019)](https://www.nature.com/articles/s41598-019-40518-5)
+>**Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer.** _Coleman et al._ [Nature Scientific Reports, Vol. 8, 3823 (2019)](https://www.nature.com/articles/s41598-019-40518-5)
 
->**Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer. _Coleman et al._ [Science Reports, 2019 Mar 7;9(1):3823](https://www.ncbi.nlm.nih.gov/pubmed/30846826)
+>**Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer.** _Coleman et al._ [Science Reports, 2019 Mar 7;9(1):3823](https://www.ncbi.nlm.nih.gov/pubmed/30846826)
 
 >**Quantitative Multiplex Immunohistochemistry Reveals Myeloid-Inflamed Tumor-Immune Complexity Associated with Poor Prognosis.** _Tsujikawa et
 al._ [Cell Reports, Volume 19, Issue 1, p203–217, 4 April 2017.](https://www.cell.com/cell-reports/abstract/S2211-1247(17)30383-2)
