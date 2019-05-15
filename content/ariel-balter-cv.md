@@ -55,10 +55,9 @@ Bloomington, IN, May 2005.
 
 PUBLICATIONS (peer reviewed)
 ----------------------------
+>**BET Bromodomain Inhibition Blocks the Function of a Critical AR-Independent Master Regulator Network in Lethal Prostate Cancer** _Coleman et al._ [Nature: Oncogene](https://www.nature.com/articles/s41388-019-0815-5) 17 April 2019
 
 >**Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer.** _Coleman et al._ [Nature Scientific Reports, Vol. 8, 3823 (2019)](https://www.nature.com/articles/s41598-019-40518-5)
-
->**BET Bromodomain Inhibition Blocks the Function of a Critical AR-Independent Master Regulator Network in Lethal Prostate Cancer** _Coleman et al._ Submitted to [Nature Communications,]() April 2017
 
 >**Quantitative Multiplex Immunohistochemistry Reveals Myeloid-Inflamed Tumor-Immune Complexity Associated with Poor Prognosis.** _Tsujikawa et
 al._ [Cell Reports, Volume 19, Issue 1, p203–217, 4 April 2017.](https://www.cell.com/cell-reports/abstract/S2211-1247(17)30383-2)
@@ -96,11 +95,6 @@ Environments, 2007.](https://www.semanticscholar.org/paper/Python-for-Scientifi
 >**Hydrodynamic Stability of Helical Growth at Low Reynolds Number.**
 _Ariel Balter, Jay X. Tang._ [Phys. Rev. E 71, 051912
 (2005)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.051912).
-
-
-
-
-
 
 BOOK CHAPTERS
 -------------
