@@ -60,7 +60,7 @@ Jupyter Notebooks
     download links for tables. Because it is an "html_notebook" it includes the button at
     top right to download the code.
     
-    [IgA Seq Index Calculation Test](http://arielbalter.org/mywebsite/content/explore_iga_score_ici_index.nb.html)(:target="_blank")
+    [IgA Seq Index Calculation Test](http://arielbalter.org/mywebsite/assets/explore_iga_score_ici_index.nb.html)
 
 -   Data visualization workshop
 
