@@ -4,21 +4,16 @@ June 2018-present: Computational Biologist in the Casey Eye Center at Oregon Hea
 
 LEADING ACCOMPLISHMENTS
 -----------------------
--   Automated submitting ChIP-Seq and RNA-Seq next-generation sequencing
-    analysis code to a computing cluster. This saved time and improved
-    consistency of results.
--   Organized and led two successful workshops on computing skills. 100+ 
-    students, postdocs, and faculty attended each one. Workshop content 
-    published on GitHub.
--   Implemented original system to extract and organize crops from stained cancer
-    tissue images. Increased the investigators' throughput by a factor of
-    100x (33 citations).
+-   16s MiSeq genomic analysis of the human gut microbiome relating biota to Age Related 
+    Macular Degeneration.
+-   Automated submitting ChIP-Seq and RNA-Seq next-generation sequencing analysis code to a 
+    computing cluster. This saved time and improved consistency of results.
+-   Organized and led two successful workshops on computing skills attended by 100+ students, 
+    postdocs, and faculty.
+-   Increased image processing pipeline throughput by a factor of 100x (33 citations).
 -   Co-Published novel computer model for chick embryo development (43 citations).
--   Co-Published novel computer models for atomic-scale reaction-diffusion systems
-    (31 citations).
--   Organized and maintained software inventory for computational scientists.
--   Improved storage and retrieval of historical video documents at a government
-    facility.
+-   Co-Published novel computer models for atomic-scale reaction-diffusion systems (31 citations).
+-   Improved storage and retrieval of historical video images at a government library.
 
 SKILLS
 ------
