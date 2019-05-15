@@ -1,3 +1,20 @@
+Science
+-----------------
+
+-   Example of RMarkdown notebook used in my work. Experimenting with usign tabs to
+    make the presentation less overwhelming. No fancy graphs, but I love the `DT` package
+    download links for tables. Because it is an "html_notebook" it includes the button at
+    top right to download the code.
+    
+    [IgA Seq Index Calculation Test](http://arielbalter.org/mywebsite/assets/explore_iga_score_ici_index.nb.html)
+
+-   Data visualization workshop
+
+    <https://github.com/abalter/data-viz-jamboree>
+
+-   Tools for doing ChIP-Seq analysis
+
+    <https://github.com/abalter/chipseq-utils>
 
 Personal Projects
 ----------------
@@ -51,25 +68,3 @@ Snippets
     default
 
     <https://gist.github.com/abalter/4f1375985b99b84e62fcc0d63ef83174>
-
-Jupyter Notebooks
------------------
-
--   Example of RMarkdown notebook used in my work. Experimenting with usign tabs to
-    make the presentation less overwhelming. No fancy graphs, but I love the `DT` package
-    download links for tables. Because it is an "html_notebook" it includes the button at
-    top right to download the code.
-    
-    [IgA Seq Index Calculation Test](http://arielbalter.org/mywebsite/assets/explore_iga_score_ici_index.nb.html)
-
--   Data visualization workshop
-
-    <https://github.com/abalter/data-viz-jamboree>
-
-Science
--------
-
--   Tools for doing ChIP-Seq analysis
-
-    <https://github.com/abalter/chipseq-utils>
-
