@@ -31,8 +31,8 @@ SKILLS
 -   **Data Stack:** Python (Pandas, SciPy, NumPy, Matplotlib, Seaborn,
     Jupyter). R (data.table, data.frame, ggplot2). Shell tools.
     PlotlyJS.
--   **Bioinformatics Stack:** Aligners (BWA, STAR). Peak callers (MACS2,
-    EPIC). PICARD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
+-   **Bioinformatics Stack:** RNA-Seq, MiSeq (DESeq, LEfSe, DADA2, Phyloseq) Aligners (BWA, STAR). 
+    Peak callers (MACS2, PIC). PICARD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
 -   **Linux:** Server setup. Package management. Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
 -   **Basic Web Development:** Static, dynamic, and database-driven.
