@@ -23,12 +23,7 @@ Websites:
 
     <http://savepioneerschool.org/>
 
--   Website for my wife's employer:
-
-    <https://balterdev.space/house-detectives/#home>
-
--   Very old website for my wife's business (now closed). This was way
-    before I really developed my web skills. It's just pure html/css.
+-   Website for my wife's business:
 
     <http://checkitouthomeinspection.com/>
 
@@ -60,9 +55,12 @@ Snippets
 Jupyter Notebooks
 -----------------
 
--   A little data science
-
-    <https://nbviewer.jupyter.org/gist/abalter/9e064cbe3ed1db3933a32876d127d408?flush_cache=true>
+-   Example of RMarkdown notebook used in my work. Experimenting with usign tabs to
+    make the presentation less overwhelming. No fancy graphs, but I love the `DT` package
+    download links for tables. Because it is an "html_notebook" it includes the button at
+    top right to download the code.
+    
+    arielbalter.org/mywebsite/content/explore_iga_score_ici_index.nb.html
 
 -   Data visualization workshop
 
