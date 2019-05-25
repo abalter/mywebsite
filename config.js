@@ -12,10 +12,14 @@ var default_content =
 ];
 
 //var plugins = ['responsive-nav'];
+var plugins =
+[
+    'simple-dropdown-nav',
+];
 
 console.log("default_content");
 console.log(default_content);
-
+ 
 // var routes =
 // {
 //   resume: {path: "content", source: "ariel-balter-resume.md", target:"main"},

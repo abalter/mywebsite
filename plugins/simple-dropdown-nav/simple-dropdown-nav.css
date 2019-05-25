@@ -1,0 +1,91 @@
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  margin: 1rem 0 0 0;
+}
+
+nav ul, nav li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nav-item {
+  text-align: center;
+}
+
+.nav-item, .nav-toggle {
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item a, .nav-toggle a {
+    font-family: Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    /*text-shadow: 0px 0.07em 0.1em rgba(150, 150, 150, 0.75);*/
+    text-transform: lowercase;
+    color: #000;
+    text-decoration: none;
+}
+
+.nav-item > a {
+    font-size: 2rem;
+    line-height: 1.2em;
+}
+
+.nav-toggle > a {
+    font-size: 3rem;
+    line-height: 1.2em;
+}
+
+.nav-toggle > a::before,
+.nav-toggle a::after,
+.nav-item > a::before,
+.nav-item a::after{
+    content: '\00223C';
+}
+
+.nav-item a:hover, .nav-toggle a:hover {
+  outline: 2px solid black;
+}
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1vw 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: flex;
+}
+
+.active > a {
+    color: #888!important;
+}
+
+.inactive {
+    /*color: #000!important;*/
+}
+
+@media (max-width: 800px){
+    .nav-item a, .nav-toggle a {
+        font-size: 2rem;
+    }
+}
