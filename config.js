@@ -1,6 +1,6 @@
 console.log('config.js');
 
-var base_url = "https://raw.githubusercontent.com/abalter/mywebsite/fixmobilesnap/";
+var base_url = "https://raw.githubusercontent.com/abalter/mywebsite/master/";
 // base_url = "";
 
 var default_content =
@@ -12,10 +12,10 @@ var default_content =
 ];
 
 //var plugins = ['responsive-nav'];
-var plugins =
-[
-    'simple-dropdown-nav',
-];
+// var plugins =
+// [
+//     'simple-dropdown-nav',
+// ];
 
 console.log("default_content");
 console.log(default_content);
