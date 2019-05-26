@@ -46,7 +46,7 @@ class Atto
             this.updatePage(query_obj);
         }
 
-        let url = new URL(window.location.href);
+        let url = new URL(window.location.href, this.routes);
         debug(`window.location.href=${window.location.href}`,2);
         debug(`url=${url.url}`);
         debug(`url.query=${url.query}`);
@@ -82,11 +82,12 @@ class Atto
         // ajax down the markdown file, render to html,
         // place in page
 
-        debug(`query_obj=${query_obj}`);
+        let {source, target} = query_obj;
+        debug(`source=${source} target=${target}`, 1);
 
         if (typeof this.routes != 'undefined' && query_obj.source in this.routes)
         {
-            debug('routes', 2);
+            debug('has route', 2);
             let {source, target} = query_obj;
             debug(`source=${source} target=${target}`, 1);
             query_obj.source = this.routes[source].path + "/" + this.routes[source].source;
@@ -242,11 +243,12 @@ class Atto
 
 class URL
 {
-    constructor(url)
+    constructor(url, routes)
     {
         debug("URL.construtor", 1);
 
-        this.url = url;
+        this.url = url
+        this.routes = routes || [];
         // this.valid = this.validate();
         this.query = this.getQueryPart();
         debug(`url.query=${this.query}`,2);
@@ -274,8 +276,9 @@ class URL
         debug(`this.url ${this.url}`, 2);
 
         var query_match = this.url.match(/\?+(.*)/);
-        console.log(query_match);
+        debug(query_match, 1);
         var query = (query_match && query_match.length) > 1 ? query_match[1] : "";
+        
         debug("query = " + query, 2);
 
         return query;
@@ -291,25 +294,42 @@ class URL
         // on "&"
         let query_list = this.query.split('&');
         debug("query_list=" + JSON.stringify(query_list), 2);
+
         // Then create a list of the sub-queries
         //
         // initialize an dummy object
         // turn each request part into a request object with source and target
-
-        this.query_object = {};
-        query_list.forEach((item, index) =>
+        
+        if (query_list.length == 1)
         {
-            debug("index=" + index + " item=" + item, 2);
-            let parts = item.split('=');
-            debug("parts " + JSON.stringify(parts), 2);
-            // A string such as "a=b" splits to ['a','b'].
-            // So the subquery looks like
-            // {split[0] : split[1]} equiv. {a : b}
-            let key = parts[0];
-            let value = parts[1];
-            this.query_object[key] = value;
-        });
-        debug(this.query_object, 2);
+            let route = query_list[0];
+            let route_data = this.routes[route];
+            let query_object = 
+            {
+                source: route_data['path'] + '/' + route_data['source'],
+                target: route_data['target']
+            }
+            this.query_object = query_object;
+        }
+        else
+        {
+            this.query_object = {};
+            query_list.forEach((item, index) =>
+            {
+                debug("index=" + index + " item=" + item, 2);
+                let parts = item.split('=');
+                debug("parts " + JSON.stringify(parts), 2);
+                // A string such as "a=b" splits to ['a','b'].
+                // So the subquery looks like
+                // {split[0] : split[1]} equiv. {a : b}
+                let key = parts[0];
+                let value = parts[1];
+                this.query_object[key] = value;
+            });
+        }
+        
+        
+        debug('returining ' + JSON.stringify(this.query_object), 2);
         return this.query_object;
     }
 }
