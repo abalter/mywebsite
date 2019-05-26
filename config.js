@@ -1,6 +1,6 @@
 console.log('config.js');
 
-var base_url = "https://raw.githubusercontent.com/abalter/mywebsite/master/";
+var base_url = "https://raw.githubusercontent.com/abalter/mywebsite/fixmobilesnap/";
 // base_url = "";
 
 var default_content =
