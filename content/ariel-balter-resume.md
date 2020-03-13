@@ -4,8 +4,8 @@ June 2018-present: Computational Biologist in the Casey Eye Institute at Oregon 
 
 LEADING ACCOMPLISHMENTS
 -----------------------
--   Performed extensive statistical analysis of clinical 16s human gut microbiome studies on Age Related 
-    Macular Degeneration.
+-   Created reproducible pipeline for statistical analysis of clinical 16s human gut microbiome data. Discovered novel
+    relationships between AMD, demographics, genotypes, and the microbiome.
 -   Automated submitting next-generation sequencing analysis to a computing cluster. This saved time and 
     improved consistency of results.
 -   Organized and led two successful workshops on computing skills attended by 100+ students, 
@@ -18,22 +18,18 @@ LEADING ACCOMPLISHMENTS
 SKILLS
 ------
 -   **Research:** Biostatistics, Bioinformatics, Clinical, Healthcare, Physics, Computational Biology, Biophysics
+-   **Biostatistics:** Data normalization. EDA. Linear models (ANOVA, regression). Logistic models. Model selection. 
+    Outlier testing. Imputation. Model diagnostics. Categorical analysis. Genetic Risk. Diversity analysis.
 -   **Programming Languages:** (level): Python (strong). R (strong), Matlab (strong).
     Bash/Shell (strong). HTML/CSS/JS/JQuery (strong). SQL (knowledgeable). Visual Basic (knowledgeable). ColdFusion
     (knowledgeable). Git (strong). Shell tools (awk, sed, regex, etc.) (strong).
--   **Data Science (including Bioinformatics):** Data cleanup and
-    normalization. Multi-language pipelines. Statistical analysis.
-    Plotting and graphics. Next-Gen sequencing analysis (ChIP-Seq,
-    RNA-Seq). Conda package management. Data management. Data analysis. 
-    Database design.
--   **Data Stack:** R (RStudio, RMarkdown Notebooks, ggplot2), Python (Pandas, SciPy, NumPy, Matplotlib, Seaborn,
-    Jupyter). Shell tools. PlotlyJS.
--   **Bioinformatics Stack:** RNA-Seq, MiSeq (DESeq, LEfSe, DADA2, Phyloseq) Aligners (BWA, STAR). 
-    Peak callers (MACS2, EPIC). PICARD. GATK. Samtools. FastQC. Bedtools. Bedopts. IGV.
+-   **Data Science:** Data cleanup and normalization. Multi-language pipelines. Notebooks. Table manipulations. 
+    Conda package management. Database design. Graphics and Visualization. Cluster computing. 
+    **Bioinformatics:** Next-Gen \*-Seq Analysis. Aligning. Variant Calling. Differential Abundance. Functional
+    Analysis. Peak Calling. OTU/ASV picking.
 -   **Linux:** Server setup. Package management. Users/Groups/Permissions/ACLs. Web server
     configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
--   **Basic Web Development:** Static, dynamic, and database-driven.
-    UI design. Responsive design. Wordpress. MVC.
+-   **Basic Web Development:** Static, dynamic, and database-driven. UI design. Responsive design. Wordpress. MVC.
 
 EDUCATION
 ---------
