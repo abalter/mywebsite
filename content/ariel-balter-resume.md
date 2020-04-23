@@ -1,8 +1,8 @@
 Goals
 -----
 
-_I seek a position where I can contribute to research while advancing in
-biomedical computing and analysis through experience and education. My
+_I seek a position where I can contribute to research and advance in
+a career in biomedical computing and analysis through experience and education. My
 physics Ph.D. gives me broad quantitative training, deep computational
 skills, and incisive scientific intuition. I am currently pursuing a
 post-graduate degree in biostatistics at OHSU. In whatever positions I
