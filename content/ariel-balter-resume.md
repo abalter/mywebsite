@@ -4,8 +4,8 @@ Goals
 _I seek a position where I can contribute to research and advance in
 a career in biomedical computing and analysis through experience and education. My
 physics Ph.D. gives me broad quantitative training, deep computational
-skills, and incisive scientific intuition. I am currently pursuing a
-post-graduate degree in biostatistics at OHSU. In whatever positions I
+skills, and incisive scientific intuition. I am currently enrolled in a
+post-graduate program in biostatistics at OHSU. In whatever positions I
 hold, I actively contribute to the wider community. I also promote
 reproducible research with literate programming, notebooks,
 self-documenting code, version control, and strict data provenance by
@@ -27,7 +27,7 @@ Leading Accomplishments
 
   - Designed and maintained databases at the Hanford safety library.
 
-  - Collaboratively organized and leading successful workshops on
+  - Collaboratively organized and lead successful workshops on
     computing skills attended by 100+ students, postdocs, and faculty.
     Community STEM outreach.
 
