@@ -1,3 +1,4 @@
+## Goal
 *I am a Ph.D. physicist transitioning to a career in biomedical data
 analysis. As a seasoned scientist, I go beyond routine analysis to ask
 the right questions, implement the right methods, and communicate the
