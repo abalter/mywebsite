@@ -1,18 +1,16 @@
-Goals
------
+*I am a Ph.D. physicist transitioning to a career in biomedical data
+analysis. As a seasoned scientist, I go beyond routine analysis to ask
+the right questions, implement the right methods, and communicate the
+results with confidence and clarity. Using my solid quantitative and
+computational background, I am building new skills through work
+experience while I complete a post-graduate degree in biostatistics at
+OHSU.*
 
-_I seek a position where I can contribute to research and advance in
-a career in biomedical computing and analysis through experience and education. My
-physics Ph.D. gives me broad quantitative training, deep computational
-skills, and incisive scientific intuition. I am currently enrolled in a
-post-graduate program in biostatistics at OHSU. In whatever positions I
-hold, I actively contribute to the wider community. I also promote
-reproducible research with literate programming, notebooks,
-self-documenting code, version control, and strict data provenance by
-example and through mentoring and teaching._
+*As a data scientist, I promote reproducible research with literate
+programming, notebooks, self-documenting code, version control, and
+strict data provenance by example and through mentoring and teaching.*
 
-Leading Accomplishments
------------------------
+## Leading Accomplishments
 
   - Created reproducible, templated pipelines for multi-stage
     statistical analysis of next-generation sequencing data.
@@ -20,51 +18,20 @@ Leading Accomplishments
   - Created and coded real-time dashboard plots for a web-based lab
     notebook for targeted cancer treatment trials.
 
-  - Lead-authored scientific papers on theoretical and computational
-    methods in physics, biophysics, computational biology, and physical
-    chemistry, and co-authored papers using bioinformatic analysis and
-    image processing pipelines.
+  - Lead author on theoretical and computational methods publications
+    physics, biophysics, computational biology, and physical chemistry,
+    and co-authored papers using bioinformatic analysis and image
+    processing pipelines.
 
   - Designed and maintained databases at the Hanford safety library.
 
-  - Collaboratively organized and lead successful workshops on
-    computing skills attended by 100+ students, postdocs, and faculty.
-    Community STEM outreach.
+  - Promotes reproducible research with literate programming, notebooks,
+    self-documenting code, version control, and strict data provenance
+    by example and through mentoring and teaching.
 
-Employment
-----------
+  - Interfaces with stakeholders to implement technology solutions.
 
-**2017-present: Computational Biologist,** Casey Eye Institute, Oregon
-Health and Science University, Portland OR
-
-**2014-2015: IT Specialist**, HAMMER Volpentest Federal Training Center,
-Richland Washington
-
-**2012-2013: Adjunct Physics Instructor, Research Scientist** Washington
-State University, Richland, WA
-
-**2009-2012: Postdoctoral Research Assistant** Pacific Northwest
-National Laboratory, Richland, WA
-
-**1998-2008: Physics Lecturer, Postdoctoral Research Assistant**
-(Biocomplexity Institute)**, Student Mentor and Undergraduate Research
-Supervisor, Graduate Research Associate, Associate Instructor**, Indiana
-University, Bloomington, IN
-
-Education
----------
-
-  - **AAS** (2015) **(Software Development)**. Columbia Basin College,
-    Pasco, WA.
-
-  - **PhD** (2005) **(Theoretical Physics, Math minor)** Indiana
-    University, Bloomington, IN. **Award**: Outstanding graduate student
-    in research.
-
-  - **BS** (1998) (**Physics**) The Evergreen State College, Olympia, WA
-
-Skills
-------
+## Skills
 
   - **Biostatistics:** Inference and hypothesis testing; Regression
     (linear, logistic, Poisson); Univariate statistics (parametric and
@@ -73,11 +40,11 @@ Skills
     Differential abundance analysis. Categorical/discrete variables.
     Survey design. Genetic risk. Functional analysis.
 
-  - **Programming Languages:** (level): Python (strong). R (strong),
-    Matlab (strong). Bash/Shell (strong). HTML/CSS/JS/JQuery (strong).
-    Git (strong). Shell tools (awk, sed, regex, etc.) (strong). SQL
-    (knowledgeable). Visual Basic (knowledgeable). ColdFusion
-    (knowledgeable).
+  - **Programming Languages:** <span class="underline">Strong</span>:
+    Python, R, Matlab, Bash/Shell, Shell tools (awk, sed, regex, etc.)
+    Git, HTML/CSS/JS/JQuery.
+    <span class="underline">Knowledgeable</span>: SQL, Visual Basic,
+    ColdFusion.
 
   - **Data Science:** EDA. Data cleanup and normalization.
     Multi-language pipelines. Notebooks. R-Tidy. Conda. GGplot.
@@ -91,16 +58,45 @@ Skills
     design. Responsive design. Wordpress. MVC.
 
   - **Outreach, education, mentoring:** Planning and leading workshops.
-    Teaching classes. Giving talks. Creating demonstrations. Mentoring
-    research students. Community outreach.
+    Teaching. Giving talks. Creating demonstrations. Mentoring research
+    students. Community outreach.
 
-Selected Publications
----------------------
+## Employment
+
+**2017-present: Computational Biologist,** Casey Eye Institute, Oregon
+Health and Science University, Portland OR
+
+**2014-2015: IT Specialist,** HAMMER Volpentest Federal Training Center,
+Richland WA
+
+**2012-2013: Adjunct Physics Instructor, Research Scientist**,
+Washington State University, Richland, WA
+
+**2009-2012: Postdoctoral Research Assistant,** Pacific Northwest
+National Laboratory, Richland, WA
+
+**1998-2008: Physics Lecturer, Postdoctoral Research Assistant**
+(Biocomplexity Institute)**, Student Mentor and Undergraduate Research
+Supervisor, Graduate Research Associate, Associate Instructor**, Indiana
+University, Bloomington, IN
+
+## Education
+
+  - **AAS** (2015) **(Software Development)**. Columbia Basin College,
+    Pasco, WA
+
+  - **PhD** (2005) **(Theoretical Physics, Math minor)** Indiana
+    University, Bloomington, IN **Award**: Outstanding graduate student
+    in research.
+
+  - **BS** (1998) (**Physics**) The Evergreen State College, Olympia, WA
+
+## Selected Publications
 
 ***BET Bromodomain Inhibition Blocks the Function of a Critical
 AR-Independent Master Regulator Network in Lethal Prostate Cancer***
-Coleman et al. Nature: Oncogene<span class="underline">,</span> 17 April
-2019
+Coleman et al. <span class="underline">Nature: Oncogene, 17 April
+2019</span>
 
 ***Effect of Nonlinearity in Hybrid KMC-Continuum models*.** Ariel
 Balter, Guang Lin, Alexandre M. Tartakovsky.
@@ -122,11 +118,12 @@ Magazine Letters Vol. 8 Issue 9,2008 p. 679 - 691.</span>
 Ariel Balter, Jay X. Tang. <span class="underline">Phys. Rev. E 71,
 051912 (2005)</span>.
 
-Stem Outreach
--------------
+## Stem Outreach
+
 **2016, OHSU Data Jamborees:** Organized educational events with
 speakers and workshops on data analysis skills and computational
-resources at OHSU. Led workshop sessions.
+resources. Led workshops attended by 100+ students, postdocs, and
+faculty.
 
 **2007-2008, Wonderlab:** Helped design and build exhibits for a
 children’s science museum in Bloomington (IN).
@@ -134,11 +131,10 @@ children’s science museum in Bloomington (IN).
 **1998-2007, IU Physics Department Open House:** Designed and built new
 displays and activities. Participated in setup and docenting.
 
-Personal Notes
---------------
+## Bio
 
-Returned to school at 27yo to complete bachelor’s degree, PhD at 38yo.
-Before that, worked in restaurants, freelance writing, and mostly
+Returned to school at 27yo to complete a bachelor’s degree; Ph.D. at
+38yo. Before that, worked in restaurants, freelance writing, and mostly
 carpentry/woodworking. Hobbies include cooking, baking artisan bread,
 gardening/preserving, building things. I play guitar and mandolin ok.
 I’m nice (usually).
