@@ -63,8 +63,9 @@ strict data provenance by example and through mentoring and teaching.*
     students. Community outreach.
 
 ## Employment
+**08/24/2020-present: Bioinformatics Scientist,** Providence Portland Medical Center, Portland OR
 
-**2017-present: Computational Biologist,** Casey Eye Institute, Oregon
+**2017-03/31/2020: Computational Biologist,** Casey Eye Institute, Oregon
 Health and Science University, Portland OR
 
 **2014-2015: IT Specialist,** HAMMER Volpentest Federal Training Center,
