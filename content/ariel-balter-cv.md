@@ -1,10 +1,11 @@
 
 EMPLOYMENT
 ----------
+>**08/24/2020-present: Bioinformatics Scientist** Providence Portland Medical Center, Portland OR
 
->**7/2018-present: Computational Biologist** Oregon Health and Science University, Portland OR
+>**07/2018-03/31/2020: Computational Biologist** Oregon Health and Science University, Portland OR
 
->**11/2015-6/2017: Computational Biologist** Oregon Health and Science University, Portland OR  
+>**11/2015-06/2017: Computational Biologist** Oregon Health and Science University, Portland OR  
 
 >**7/2014-11/2015: IT Specialist** HAMMER Volpentest Federal Training
 Center, Richland Washington  
