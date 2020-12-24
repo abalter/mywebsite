@@ -4,6 +4,7 @@
 ARIEL BALTER, Ph.D
 
 >"Don't believe everything you think." &mdash; _Allan Lokos_  
+
 >"True science is the systematic removal of opinion from fact. " &mdash; _Ariel Balter_
 
 ## About this website:
