@@ -4,6 +4,7 @@
 ARIEL BALTER, Ph.D
 
 >"Don't believe everything you think." &mdash; _Allan Lokos_
+>"Science is the systematic elimination of opinion." &mdash; _Allan Lokos_
 
 ## About this website:
 I built this website using the [AttoWeb](http://attoweb.org) framework
