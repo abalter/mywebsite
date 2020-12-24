@@ -1,9 +1,11 @@
 ![Ariel Balter](assets/img/ArielBalterHeadshot-600x600.jpg)
 
 ----------------------------------------------------------------------------------------------
-ARIEL BALTER, Ph.D
+ARIEL BALTER, Ph.D  
+
 ---
 _Don't believe everything you think._ &mdash; Allan Lokos  
+
 ---  
 _True science is the systematic removal of opinion from fact._ &mdash; Ariel Balter  
 
