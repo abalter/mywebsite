@@ -1,6 +1,6 @@
 ## Goal
-_I have leveraged my solid quantitative and computational background from working as a Ph.D physicist
-to successfully transition to biomedical data science: Bioinformatics and Statistics._
+_As a Ph.D. physicist, I have a solid quantitative and computational background which
+enabled me to successfully transition to biomedical data science: Bioinformatics and Statistics._
 
 _I am working towards a graduate degree in statistics, and plan to increasingly include
 statistical analysis in my work and research. I am open to volunteering my data science skills
