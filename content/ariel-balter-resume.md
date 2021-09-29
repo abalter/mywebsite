@@ -1,15 +1,14 @@
 ## Goal
-*I am a Ph.D. physicist transitioning to a career in biomedical data
-analysis. As a seasoned scientist, I go beyond routine analysis to ask
-the right questions, implement the right methods, and communicate the
-results with confidence and clarity. Using my solid quantitative and
-computational background, I am building new skills through work
-experience while I complete a post-graduate degree in biostatistics at
-OHSU.*
+_Using my solid quantitative and computational background from working Ph.D. physicist, I 
+have successfully transitioned to biomedical data science: Bioinformatics and Statistics._
 
-*As a data scientist, I promote reproducible research with literate
+_I am working towards a graduate degree in statistics, and plan to increasingly include
+statistical analysis in my work and research. I am open to volunteering my data science skills
+for non-profit organizations._
+
+_As a data scientist, I promote reproducible research with literate
 programming, notebooks, self-documenting code, version control, and
-strict data provenance by example and through mentoring and teaching.*
+strict data provenance by example and through mentoring and teaching._
 
 ## Leading Accomplishments
 
