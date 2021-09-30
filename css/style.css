@@ -82,7 +82,7 @@ a:hover {
 .container {
     padding: 1rem;
     display: grid;
-    grid-template-columns: 0.38fr 0.62fr;
+    grid-template-columns: 0.3fr 0.7fr;
     grid-template-areas: 'left-sidebar main';
     grid-gap: 2rem;
     min-width: 600px;
@@ -98,15 +98,15 @@ a:hover {
 #main {
   grid-area: main;
   min-width: 360px;
-  width: 67%;
 }
 #right-sidebar {
   grid-area: right-sidebar;
+  display: none;
 }
 @media (max-width: 800px){
   .container {
       display: grid;
-      grid-template-columns: 0.38fr 0.62fr;
+      grid-template-columns: 0.3 0.7fr;
       grid-template-areas: 'left-sidebar main';
    }
   #left-sidebar {
