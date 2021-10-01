@@ -139,8 +139,8 @@ displays and activities. Participated in setup and docenting.
 
 ## Bio
 
-Returned to school at 27yo to complete a bachelor’s degree; Ph.D. at
-38yo. Before that, worked in restaurants, freelance writing, and mostly
+Returned to school at age 28 to complete a bachelor’s degree; Ph.D. at
+age 37. Before that, worked in restaurants, freelance writing, and mostly
 carpentry/woodworking. Hobbies include cooking, baking artisan bread,
 gardening/preserving, building things. I play guitar and mandolin ok.
 I’m nice (usually).
