@@ -93,13 +93,13 @@ University, Bloomington, IN
   - **BS** (1998) (**Physics**) The Evergreen State College, Olympia, WA
 
 ## Selected Publications
-***Swept-source optical coherence tomography objective composite activity score for uveitis.** _Llorenç et al._ [Acta Ophthalmol](https://onlinelibrary.wiley.com/doi/10.1111/aos.14739), 09 January 2021
+***Swept-source optical coherence tomography objective composite activity score for uveitis.*** _Llorenç et al._ [Acta Ophthalmol](https://onlinelibrary.wiley.com/doi/10.1111/aos.14739), 09 January 2021
 
-***Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer.** 
+***Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer.*** 
 _Coleman et al._ [Nature Scientific Reports, Vol. 8, 3823 (2019)](https://www.nature.com/articles/s41598-019-40518-5)
 
-***BET Bromodomain Inhibition Blocks the Function of a Critical AR-Independent Master Regulator Network in Lethal Prostate Cancer.** 
-_Coleman et al._ [Nature: Oncogene, 17 April 2019](BET Bromodomain Inhibition Blocks the Function of a Critical AR-Independent Master Regulator Network in Lethal Prostate Cancer)
+***BET Bromodomain Inhibition Blocks the Function of a Critical AR-Independent Master Regulator Network in Lethal Prostate Cancer.*** 
+_Coleman et al._ [Nature: Oncogene, 17 April 2019](https://www.nature.com/articles/s41388-019-0815-5)
 
 ***Quantitative Multiplex Immunohistochemistry Reveals Myeloid-Inflamed Tumor-Immune Complexity Associated with Poor Prognosis.*** 
 _Tsujikawa et al._ [Cell Reports, Volume 19, Issue 1, p203–217, 4 April 2017.](https://www.cell.com/cell-reports/abstract/S2211-1247%2817%2930383-2>)
