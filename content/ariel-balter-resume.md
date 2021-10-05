@@ -22,19 +22,19 @@ _As a data scientist, I promote reproducible research with literate programming,
 
 
 # Skills
-- **Data Science:** EDA. Data cleanup and normalization. Database systems. Cloud computing. Multi-language pipelines. Notebooks. R-Tidy. Conda. GGplot. Matplotlib. Seaborn. Docker.  
+**Data Science:** EDA. Data cleanup and normalization. Database systems. Cloud computing. Multi-language pipelines. Notebooks. R-Tidy. Conda. GGplot. Matplotlib. Seaborn. Docker.  
 
-- **Bioinformatics:**  Microbiome analysis, RNA-Seq, ChIP-Seq, Variant analysis.
+**Bioinformatics:**  Microbiome analysis, RNA-Seq, ChIP-Seq, Variant analysis.
 
-- **Biostatistics: * Inference and hypothesis testing; Regression (linear, logistic, Poisson); Univariate statistics (parametric and non-parametric); AN(C)OVA, Ordination, Diversity analysis; Multiple comparisons; Model selection, diagnostics, and post-hoc analysis; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.  
+**Biostatistics: ** Inference and hypothesis testing; Regression (linear, logistic, Poisson); Univariate statistics (parametric and non-parametric); AN(C)OVA, Ordination, Diversity analysis; Multiple comparisons; Model selection, diagnostics, and post-hoc analysis; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.  
 
-- **Programming Languages:** <span style="text-decoration:underline;">Strong</span>: Python, R, Bash/Shell, Shell tools (awk, sed, regex, etc.) Git, SQL, /CSS/JS/JQuery. <span style="text-decoration:underline;">Rusty</span>: Matlab. <span style="text-decoration:underline;">Knowledgeable</span>: Visual Basic, ColdFusion, PHP.
+**Programming Languages:** <span style="text-decoration:underline;">Strong</span>: Python, R, Bash/Shell, Shell tools (awk, sed, regex, etc.) Git, SQL, /CSS/JS/JQuery. <span style="text-decoration:underline;">Rusty</span>: Matlab. <span style="text-decoration:underline;">Knowledgeable</span>: Visual Basic, ColdFusion, PHP.
 
-- **Linux**: Server setup. Package management. Users/Groups/Permissions/ACLs. Web server configuration. Drive mapping. Cluster submission (SLURM, HTCondor).  
+**Linux**: Server setup. Package management. Users/Groups/Permissions/ACLs. Web server configuration. Drive mapping. Cluster submission (SLURM, HTCondor).  
 
-- **Basic Web Development:** Static, dynamic, and database-driven. UI design. Responsive design. WordPress. MVC.  
+**Basic Web Development:** Static, dynamic, and database-driven. UI design. Responsive design. WordPress. MVC.  
 
-- **Outreach, education, mentoring:** Planning and leading workshops. Teaching. Giving talks. Creating demonstrations. Mentoring research students. Community outreach.
+**Outreach, education, mentoring:** Planning and leading workshops. Teaching. Giving talks. Creating demonstrations. Mentoring research students. Community outreach.
 
 
 # Employment
