@@ -26,7 +26,7 @@ _As a data scientist, I promote reproducible research with literate programming,
 
 - **Bioinformatics:**  Microbiome analysis, RNA-Seq, ChIP-Seq, Variant analysis.
 
-- **Biostatistics: **Inference and hypothesis testing; Regression (linear, logistic, Poisson); Univariate statistics (parametric and non-parametric); AN(C)OVA, Ordination, Diversity analysis; Multiple comparisons; Model selection, diagnostics, and post-hoc analysis; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.  
+- **Biostatistics: * Inference and hypothesis testing; Regression (linear, logistic, Poisson); Univariate statistics (parametric and non-parametric); AN(C)OVA, Ordination, Diversity analysis; Multiple comparisons; Model selection, diagnostics, and post-hoc analysis; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.  
 
 - **Programming Languages:** <span style="text-decoration:underline;">Strong</span>: Python, R, Bash/Shell, Shell tools (awk, sed, regex, etc.) Git, SQL, /CSS/JS/JQuery. <span style="text-decoration:underline;">Rusty</span>: Matlab. <span style="text-decoration:underline;">Knowledgeable</span>: Visual Basic, ColdFusion, PHP.
 
