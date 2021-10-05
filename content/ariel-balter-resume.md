@@ -1,8 +1,7 @@
 ## Goal
-_I have levereaged my quantitative and computational background as a Ph.D physicist to 
-successfully transition to biomedical data science: Bioinformatics and Statistics._
+_Using my quantitative and computational background as a Ph.D. physicist, I successfully transitioned to biomedical data science: Bioinformatics and Statistics._
 
-_I am also working towards a graduate degree in statistics, and plan to increasingly include
+_I am also working towards a graduate degree in statistics and will increasingly include
 statistical analysis in my work and research. I am open to volunteering my data science skills
 for non-profit organizations._
 
@@ -51,11 +50,10 @@ strict data provenance by example and through mentoring and teaching._
     Matplotlib. Seaborn.
 
   - **Linux:** Server setup. Package management.
-    Users/Groups/Permissions/ACLs. Web server configuration. Drive
-    mapping. Cluster submission (SLURM, HTCondor).
+    Users/Groups/Permissions/ACLs. Web server configuration. Drive mapping. Cluster submission (SLURM, HTCondor).
 
   - **Basic Web Development:** Static, dynamic, and database-driven. UI
-    design. Responsive design. Wordpress. MVC.
+    design. Responsive design. WordPress. MVC.
 
   - **Outreach, education, mentoring:** Planning and leading workshops.
     Teaching. Giving talks. Creating demonstrations. Mentoring research
@@ -141,7 +139,7 @@ displays and activities. Participated in setup and docenting.
 ## Bio
 
 Returned to school at age 28 to complete a bachelor’s degree; Ph.D. at
-age 37. Before that, worked in restaurants, freelance writing, and mostly
+age 37. Before that, I worked in restaurants, freelance writing, and primarily in
 carpentry/woodworking. Hobbies include cooking, baking artisan bread,
 gardening/preserving, building things. I play guitar and mandolin ok.
 I’m nice (usually).
