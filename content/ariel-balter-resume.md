@@ -1,4 +1,4 @@
-# About
+# Introduction
 
 _Using my quantitative and computational background as a Ph.D. physicist, I successfully transitioned to biomedical data science: Bioinformatics and Statistics._
 
