@@ -38,25 +38,25 @@ _As a data scientist, I promote reproducible research with literate programming,
 
 
 # Employment
-**08/24/2020-present: **Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
+**08/24/2020-present:** Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
 
 **2017-03/31/2020:** Computational Biologist, Casey Eye Institute, Oregon Health and Science University, Portland OR  
 
-**2014-2015: **IT Specialist, HAMMER Volpentest Federal Training Center, Richland WA  
+**2014-2015:** IT Specialist, HAMMER Volpentest Federal Training Center, Richland WA  
 
 **2012-2013:** Adjunct Physics Instructor, Research Scientist, Washington State University, Richland, WA  
 
-**2009-2012: **Postdoctoral Research Assistant, Pacific Northwest National Laboratory, Richland, WA   
+**2009-2012:** Postdoctoral Research Assistant, Pacific Northwest National Laboratory, Richland, WA   
 
 **1998-2008:** Physics Lecturer, Postdoctoral Research Assistant (Biocomplexity Institute), Student Mentor and Undergraduate Research Supervisor, Graduate Research Associate, Associate Instructor, Indiana University, Bloomington, IN
 
 
 # Education
-**AAS (2015) (Software Development).** Columbia Basin College, Pasco, WA
+**AAS (2015) (Software Development).**  Columbia Basin College, Pasco, WA
 
-**PhD (2005) (Theoretical Physics, Math minor).** Indiana University, Bloomington, IN** Award**: Outstanding graduate student in research.
+**PhD (2005) (Theoretical Physics, Math minor).**  Indiana University, Bloomington, IN** Award**: Outstanding graduate student in research.
 
-**BS (1998) (Physics).** The Evergreen State College, Olympia, WA  
+**BS (1998) (Physics).**  The Evergreen State College, Olympia, WA  
 
 
 # Selected Publications 
@@ -79,11 +79,11 @@ _As a data scientist, I promote reproducible research with literate programming,
 **_Hydrodynamic Stability of Helical Growth at Low Reynolds Number._** Ariel Balter, Jay X. Tang. Phys. Rev. E 71, 051912 (2005).
 
 
-# Stem Outreach
+# STEM Outreach
 
-**2016, OHSU Data Jamborees: **Organized educational events with speakers and workshops on data analysis skills and computational resources. Led workshops attended by 100+ students, postdocs, and faculty.
+**2016, OHSU Data Jamborees:** Organized educational events with speakers and workshops on data analysis skills and computational resources. Led workshops attended by 100+ students, postdocs, and faculty.
 
-**2007-2008, Wonderlab: **Helped design and build exhibits for a children’s science museum in Bloomington (IN).
+**2007-2008, Wonderlab:** Helped design and build exhibits for a children’s science museum in Bloomington (IN).
 
 **1998-2007, IU Physics Department Open House:** Designed and built new displays and activities. Participated in setup and docenting.
 
