@@ -24,7 +24,7 @@ _As a data scientist, I promote reproducible research with literate programming,
 # Skills
 - **Data Science:** EDA. Data cleanup and normalization. Database systems. Cloud computing. Multi-language pipelines. Notebooks. R-Tidy. Conda. GGplot. Matplotlib. Seaborn. Docker.  
 
-- **Bioinformatics:** Microbiome analysis, RNA-Seq, ChIP-Seq, Variant analysis.
+- **Bioinformatics:**  Microbiome analysis, RNA-Seq, ChIP-Seq, Variant analysis.
 
 - **Biostatistics: **Inference and hypothesis testing; Regression (linear, logistic, Poisson); Univariate statistics (parametric and non-parametric); AN(C)OVA, Ordination, Diversity analysis; Multiple comparisons; Model selection, diagnostics, and post-hoc analysis; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.  
 
