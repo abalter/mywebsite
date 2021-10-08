@@ -54,7 +54,7 @@ _As a data scientist, I promote reproducible research with literate programming,
 # Education
 **AAS (2015) (Software Development).**  Columbia Basin College, Pasco, WA
 
-**PhD (2005) (Theoretical Physics, Math minor).**  Indiana University, Bloomington, IN** Award**: Outstanding graduate student in research.
+**PhD (2005) (Theoretical Physics, Math minor).**  Indiana University, Bloomington, IN **Award**: Outstanding graduate student in research.
 
 **BS (1998) (Physics).**  The Evergreen State College, Olympia, WA  
 
