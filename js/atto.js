@@ -109,7 +109,7 @@ class Atto
                 debug(markdown, 3);
 
                 // render the markdown to HTML
-                let html = marked(markdown);
+                let html = marked.parse(markdown);
                 debug("printing html", 3);
                 debug(html, 3);
 
