@@ -49,6 +49,6 @@ Temp Sharing
 ------------
 
 -  Some EDA on TCGA Expression
-    -  [COAD](https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_short_isb-coad.nb.html)
+    -  [COAD](http://htmlpreview.github.io/?https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_short_isb-coad.nb.html)
     -  [BRCA]()  (current problem with sample names)
-    -  [KIRC](https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_short_isb-kirc.nb.html)
+    -  [KIRC](http://htmlpreview.github.io/?https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_short_isb-kirc.nb.html)
