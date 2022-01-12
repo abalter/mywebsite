@@ -49,7 +49,7 @@ Temp Sharing
 ------------
 
 -  Some EDA on TCGA Expression
-    -  <a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_isb-COAD.nb.html" download>COAD</a>
+    -  <a href="tcga_sample_counts_EDA_isb-COAD.nb.html" download>COAD</a>
     -  [LAML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_isb-LAML.nb.html)
     -  [KIRC](http://htmlpreview.github.io/?https://raw.githubusercontent.com/abalter/mywebsite/master/content/tcga_sample_counts_EDA_isb-KIRC.nb.html)
     -  [KIRC](../content/tcga_sample_counts_EDA_isb-KIRC.nb.html)
