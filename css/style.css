@@ -4,10 +4,12 @@ html {
   --dark-color: #55552b;
   background: #77777;
   font-size: 100%;
+  box-sizing: border-box;
 }
 body {
   font-family: "Open Sans", sans-serif;
   overscroll-behavior-y: none;
+  box-sizing: border-box;
 }
 h1, h2 {
   font-family: Bitter, sans-serif;
