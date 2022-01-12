@@ -10,7 +10,6 @@
 
 html {
   line-height: 1.15; /* 1 */
-  -webkit-text-size-adjust: 100%; /* 2 */
 }
 
 /* Sections
@@ -43,7 +42,7 @@ h1 {
  */
 
 hr {
-  box-sizing: content-box; /* 1 */
+  box-sizing: border-box; /* 1 */
   height: 0; /* 1 */
   overflow: visible; /* 2 */
 }
