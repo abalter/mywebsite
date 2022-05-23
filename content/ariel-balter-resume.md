@@ -1,40 +1,54 @@
 # Introduction
 
-_Using my quantitative and computational background as a Ph.D. physicist, I successfully transitioned to biomedical data science: Bioinformatics and Statistics._
+_Using my quantitative and computational background as a Ph.D. physicist, I successfully transitioned to 
+biomedical data science: Bioinformatics and Statistics._
 
-_I am also working towards a graduate degree in statistics and will increasingly include statistical analysis in my work and research. I am open to volunteering my data science skills for non-profit organizations._
+_I want to work on projects where I will increasingly participate in statistical analysis and modeling until 
+I become an expert. I hope to continue my graduate education in statistics and ultimately earn a master's degree 
+as well as fill the machine learning hole in my skill set._
 
-_As a data scientist, I promote reproducible research with literate programming, notebooks, self-documenting code, version control, and strict data provenance by example and through mentoring and teaching._
-
+_Projects and organizations with a public mission especially appeal to me._
 
 # Accomplishments
+- Launched a business-academic collaborative research project integrating multiple large-scale public genomic 
+  data sets into a graph database suitable for machine learning.
+  
 - Created reproducible, templated pipelines for multi-stage statistical analysis of next-generation sequencing data.
 
 - Created and coded real-time dashboard plots for a web-based lab notebook for targeted cancer treatment trials.
 
-- Lead author on theoretical and computational methods publications physics, biophysics, computational biology, and physical chemistry, and co-authored papers using bioinformatic analysis and image processing pipelines.
+- Lead author on theoretical and computational methods publications physics, biophysics, computational biology, and 
+  physical chemistry, and co-authored papers using bioinformatic analysis and image processing pipelines.
 
 - Designed and maintained databases at the Hanford safety library.
 
-- Promotes reproducible research with literate programming, notebooks, self-documenting code, version control, and strict data provenance by example and through mentoring and teaching.
-
-- Interfaces with stakeholders to implement technology solutions.
-
-
+- Promotes reproducible research with literate programming, notebooks, self-documenting code, version control, and strict 
+ data provenance by example and through mentoring and teaching.
+ 
+ 
 # Skills
-**Data Science:** EDA. Data cleanup and normalization. Database systems. Cloud computing. Multi-language pipelines. Notebooks. R-Tidy. Conda. GGplot. Matplotlib. Seaborn. Docker.  
+**Data Science:** EDA. Data cleanup, normalization, and harmonization. Database systems. Cloud computing. Multi-language pipelines. 
+  Jupyter and R Notebooks. R-Tidyverse. Conda. GGplot. Matplotlib. Seaborn. Docker.
 
-**Bioinformatics:**  Microbiome analysis, RNA-Seq, ChIP-Seq, Variant analysis.
+**Statistics/Biostatistics:  **Inference and hypothesis testing; Regression and linear models; Model selection, diagnostics, 
+  and post-hoc analysis; Univariate statistics (parametric and non-parametric); Ordinationl Diversity analysis; Multiple 
+  comparisons; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.
 
-**Biostatistics:** Inference and hypothesis testing; Regression (linear, logistic, Poisson); Univariate statistics (parametric and non-parametric); AN(C)OVA, Ordination, Diversity analysis; Multiple comparisons; Model selection, diagnostics, and post-hoc analysis; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.  
+**Bioinformatics:** Microbiome analysis, RNA-Seq, ChIP-Seq, Variant calling.
 
-**Programming Languages:** <span style="text-decoration:underline;">Strong</span>: Python, R, Bash/Shell, Shell tools (awk, sed, regex, etc.) Git, SQL, /CSS/JS/JQuery. <span style="text-decoration:underline;">Rusty</span>: Matlab. <span style="text-decoration:underline;">Knowledgeable</span>: Visual Basic, ColdFusion, PHP.
+**Cloud Computing:** Google Cloud Platform; HPC cluster job submission; Docker; Pipelines.
 
-**Linux**: Server setup. Package management. Users/Groups/Permissions/ACLs. Web server configuration. Drive mapping. Cluster submission (SLURM, HTCondor).  
+**Programming Languages:** <span style="text-decoration:underline;">Expert</span>: R, Bash/Shell (awk, sed, regex, etc.). 
+  <span style="text-decoration:underline;">Strong</span>: Python, Git, SQL, /CSS/JS/JQuery. <span style="text-decoration:underline;">
+  Rusty</span>: Matlab. <span style="text-decoration:underline;">Knowledgeable</span>: C++, Java, Visual Basic, ColdFusion, PHP.
 
-**Basic Web Development:** Static, dynamic, and database-driven. UI design. Responsive design. WordPress. MVC.  
+**Linux**: Server setup. Package management. Users/Groups/Permissions/ACLs. Web server configuration. Drive mapping. Cluster 
+  submission (SLURM, HTCondor).
 
-**Outreach, education, mentoring:** Planning and leading workshops. Teaching. Giving talks. Creating demonstrations. Mentoring research students. Community outreach.
+**Basic Web Development:** HTML/CSS/JS, JQuery, Responsive design, flexbox, bootstrap, Wordpress, SVG, AJAX.
+
+**Outreach, education, mentoring:** Planning and leading workshops. Teaching. Giving talks. Creating demonstrations. Mentoring 
+  research students. Community outreach.
 
 
 # Employment
