@@ -30,7 +30,7 @@ _Projects and organizations with a public mission especially appeal to me._
 **Data Science:** EDA. Data cleanup, normalization, and harmonization. Database systems. Cloud computing. Multi-language pipelines. 
   Jupyter and R Notebooks. R-Tidyverse. Conda. GGplot. Matplotlib. Seaborn. Docker.
 
-**Statistics/Biostatistics:  **Inference and hypothesis testing; Regression and linear models; Model selection, diagnostics, 
+**Statistics/Biostatistics:** Inference and hypothesis testing; Regression and linear models; Model selection, diagnostics, 
   and post-hoc analysis; Univariate statistics (parametric and non-parametric); Ordinationl Diversity analysis; Multiple 
   comparisons; Differential abundance analysis. Categorical/discrete variables. Survey design. Genetic risk. Functional analysis.
 
