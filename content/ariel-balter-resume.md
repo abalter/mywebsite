@@ -73,7 +73,9 @@ _Projects and organizations with a public mission especially appeal to me._
 **BS (1998) (_Physics_).**  The Evergreen State College, Olympia, WA  
 
 
-# Selected Publications 
+# Selected Publications  
+**_A diet rich in fermentable fiber promotes robust changes in the intestinal microbiota, mitigates intestinal permeability, and attenuates autoimmune uveitis._** Yukiko Nakamura, et al. (Submitted)  
+
 **_Swept-source optical coherence tomography objective composite activity score for uveitis._** Llorenç et al.[ Acta Ophthalmol](https://onlinelibrary.wiley.com/doi/10.1111/aos.14739), 09 January 2021
 
 **_Maintenance of MYC expression promotes de novo resistance to BET bromodomain inhibition in castration-resistant prostate cancer_.** Coleman et al.[ Nature Scientific Reports, Vol. 8, 3823 (2019)](https://www.nature.com/articles/s41598-019-40518-5)
