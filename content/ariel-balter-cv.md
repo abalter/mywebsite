@@ -1,7 +1,9 @@
 
 EMPLOYMENT
 ----------
->**08/24/2020-present: Bioinformatics Scientist** Providence Portland Medical Center, Portland OR
+>**06/01/2022-present: Computational Biology Contractor** (Katana Graph and University of Michigan)
+
+>**08/24/2020-06/01/2022: Bioinformatics Scientist** Providence Portland Medical Center, Portland OR
 
 >**07/2018-03/31/2020: Computational Biologist** Oregon Health and Science University, Portland OR
 
