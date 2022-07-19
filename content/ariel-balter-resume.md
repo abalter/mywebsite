@@ -52,7 +52,9 @@ _Projects and organizations with a public mission especially appeal to me._
 
 
 # Employment
-**08/24/2020-present:** Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
+**06/01/2022-present:** Computational Biology Contractor (Katana Graph and University of Michigan)
+
+**08/24/2020-06/08/2022:** Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
 
 **2017-03/31/2020:** Computational Biologist, Casey Eye Institute, Oregon Health and Science University, Portland OR  
 
