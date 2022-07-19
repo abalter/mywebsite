@@ -9,5 +9,4 @@ content. I proudly support the Oxford comma.
 I have spent time as a stay-at-home parent and now work part time as a computational biologist. At this point in my life, 
 I'm focusing on my work/life balance more than pay or position.
 
-I currently live in Portland Oregon with my amazing wife Karen, our son Tov, our lovable-but-no-so-bright
-Poodle mix Cooper, our playful kitten Mr. Muffin Maker, and whatever other pets Tov has at the moment.
+I currently live in Portland Oregon with my amazing wife Karen, our son Tov, our playful cat Mr. Muffin Maker, and whatever other pets Tov has at the moment.
