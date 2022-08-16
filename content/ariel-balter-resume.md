@@ -1,15 +1,15 @@
 # Introduction
 
-_Using my quantitative and computational background as a Ph.D. physicist, I successfully transitioned to biomedical data science: Computational Biology, Bioinformatics, and Statistics. Although relatively new to NGS analysis, I have demonstrated the computational and statistical savvy you would expect from someone with 20+ years of experience in scientific research, modeling, and analysis._
+_Using my mathematical and computational background as a Ph.D physicist, I successfully transitioned to biomedical data science: Computational Biology, Bioinformatics, and Statistics. Although relatively new to this field, I have demonstrated the savvy you would expect from someone with 20+ years of experience in scientific research, modeling, and analysis._
 
-_I have participated in numerous NGS (*-Seq) analysis projects as well as microbiome analysis. I want to increasingly participate in statistical analysis and modeling---learning from others as I build my expertise. I hope to continue my graduate education in statistics to ultimately earn a master's degree, as well as ﬁll the machine learning hole in my skill set._
+_Most of my experience so far has been in bioinformatics analysis focused on cancer genomics and microbiome analysis. I want to increasingly participate in statistical analysis and modeling—learning from others as I build my expertise. I hope to continue my graduate education in statistics to ultimately earn a master's degree, as well as ﬁll the machine learning hole in my skill set._
 
 _As a data scientist, I promote reproducible research with literate programming, notebooks, self-documenting code, version control, and strict data provenance by example and through mentoring and teaching._
 
 _Projects and organizations with a public mission especially appeal to me._
 
 # Accomplishments
-- Launched a business-academic collaborative research project integrating multiple large-scale public genomic 
+- Launched a corporate-academic collaborative research project integrating multiple large-scale public genomic 
   data sets into a graph database suitable for machine learning.
   
 - Created reproducible, templated pipelines for multi-stage statistical analysis of next-generation sequencing data.
