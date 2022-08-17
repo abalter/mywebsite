@@ -1,8 +1,8 @@
 # Introduction
 
-_Using my mathematical and computational background as a Ph.D physicist, I successfully transitioned to biomedical data science: Computational Biology, Bioinformatics, and Statistics. Although relatively new to this field, I have demonstrated the savvy you would expect from someone with 20+ years of experience in scientific research, modeling, and analysis._
+_I recently migrated from physics (Ph.D.) to biomedical data science: Computational Biology, Bioinformatics, and Statistics bringing the seasoned scientific mindset you would expect from someone with 20+ years of experience in research, modeling, and analysis. I have demonstrated this by using incisive scientific reasoning and finding creative ways to extract information from data.._
 
-_Most of my experience so far has been in bioinformatics analysis focused on cancer genomics and microbiome analysis. I want to increasingly participate in statistical analysis and modeling—learning from others as I build my expertise. I hope to continue my graduate education in statistics to ultimately earn a master's degree, as well as ﬁll the machine learning hole in my skill set._
+_I leveraged my background in advanced mathematics, computation, and (published) research in random processes to develop expertise in statistics through practical application, self-study, and graduate-level classes. Most of my experience so far has been in bioinformatics analysis focused on cancer genomics and microbiome analysis. I want to increasingly participate in statistical analysis and modeling—learning from others as I build my expertise. I hope to continue my graduate education in statistics to ultimately earn a master's degree, as well as ﬁll the machine learning hole in my skill set._
 
 _As a data scientist, I promote reproducible research with literate programming, notebooks, self-documenting code, version control, and strict data provenance by example and through mentoring and teaching._
 
