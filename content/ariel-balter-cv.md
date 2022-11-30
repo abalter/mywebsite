@@ -1,7 +1,9 @@
 
 EMPLOYMENT
 ----------
-**06/01/2022-present: Computational Biology Contractor** (Katana Graph and University of Michigan)
+**11/21/2022-present: Senior Research Engineer** (Oregon Health and Science University, Portland OR)  
+
+**06/01/2022-: Computational Biology Contractor** (Katana Graph and University of Michigan)
 
 **08/24/2020-06/01/2022: Bioinformatics Scientist** Providence Portland Medical Center, Portland OR
 
