@@ -51,11 +51,15 @@ _Projects and organizations with a public mission especially appeal to me._
 
 
 # Employment
-**06/01/2022-present:** Computational Biology Contractor (Katana Graph and University of Michigan)
+**11/21/2022-present:** Senior Research Engineer, Oregon Health and Science University, Portland OR  
+
+**06/01/2022-:** Computational Biology Contractor (Katana Graph and University of Michigan)
 
 **08/24/2020-06/08/2022:** Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
 
 **2017-03/31/2020:** Computational Biologist, Casey Eye Institute, Oregon Health and Science University, Portland OR  
+
+**11/2015-04/2018:**
 
 **2014-2015:** IT Specialist, HAMMER Volpentest Federal Training Center, Richland WA  
 
