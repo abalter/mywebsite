@@ -1,12 +1,14 @@
 # Introduction
 
-_I recently migrated from physics (Ph.D.) to biomedical data science: Computational Biology, Bioinformatics, and Statistics. By efficiently learning and synthesizing information, applying incisive scientific reasoning, and finding creative ways to extract information from data, I have demonstrated the abilities you would expect from someone with 20+ years of experience in research, modeling, and analysis._
+_I'm a Ph.D. physicist turned biomedical data scientist. I have several extraordinary strengths: A discerning scientific intellect with an eye for consistency, accuracy, and efficiency. Swiftly identifying the core of a task, question, or problem and assimilating the background and context. Data engineering whiz. Weaknesses include issues with executive functioning, interpersonal skills, and sometimes simply doing what I have been asked to do._
 
-_I leveraged my background in advanced mathematics, computation, and (published) research in random processes to develop expertise in statistics through practical application, self-study, and graduate-level classes. Most of my experience so far has been in bioinformatics analysis focused on cancer genomics and microbiome analysis. I want to increasingly participate in statistical analysis and modeling—learning from others as I build my expertise. I hope to continue my graduate education in statistics to ultimately earn a master's degree, as well as ﬁll the machine learning hole in my skill set._
+_My Primary skills include bioinformatics (NGS, genomics, microbiome), statistics (methods, analysis, modeling), mathematical modeling, programming (R, Python, etc.), Data Engineering (cleaning, harmonizing, ETL, ELT, No-ETL), visualization, and technical and non-technical writing._
 
-_As a data scientist, I promote reproducible research with literate programming, notebooks, self-documenting code, version control, and strict data provenance by example and through mentoring and teaching._
+_I was diagnosed with autism in 2022 and ADHD in 2021, which I treat with medication. This information has helped me understand past challenges at work and school and how I have struggled to succeed professionally and socially. I have an immense amount to offer if I can be accepted, understood, and supported. While I can sometimes be a difficult employee to manage, I 100% commit to my work and bring an uncanny level of creativity and insight._
+_
+Right now, I align with the neurodivergence paradigm. I see my autistic traits and behaviors as integral to who I am physically and cognitively, and not things I implicitly need to correct or mask. To help my colleagues feel respected and at ease, I can generally conduct myself in ways that non-autistic people find more acceptable. Sometimes I can't._
 
-_Projects and organizations with a public mission especially appeal to me._
+_If you are open to hiring someone who is respectfully insubordinate but has extraordinary ideas and the wherewithal to implement them, I believe you will be glad you gave me a chance to work for you._
 
 # Accomplishments
 - Launched a corporate-academic collaborative research project integrating multiple large-scale public genomic 
