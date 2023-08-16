@@ -61,7 +61,7 @@ Bloomington, IN, May 2005.
 PUBLICATIONS (peer reviewed)
 ---------------------------
   
-**A diet rich in fermentable fiber promotes robust changes in the intestinal microbiota, mitigates intestinal permeability, and attenuates autoimmune uveitis.** _Yukiko Nakamura, et al._ (Submitted)  
+**A diet rich in fermentable fiber promotes robust changes in the intestinal microbiota, mitigates intestinal permeability, and attenuates autoimmune uveitis** _Yukiko K. Nakamura, et al._ [Nature Scientific Reports volume 13, Article number: 10806 (2023)](https://www.nature.com/articles/s41598-023-37062-8)
 
 **Swept-source optical coherence tomography objective composite activity score for uveitis** _Llorenç et al._ [Acta Ophthalmol](https://onlinelibrary.wiley.com/doi/10.1111/aos.14739), 09 January 2021
 
