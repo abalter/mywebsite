@@ -1,14 +1,14 @@
 # Introduction
 
-_I'm a Ph.D. physicist turned biomedical data scientist. I have several extraordinary strengths: A discerning scientific intellect with an eye for consistency, accuracy, and efficiency. Swiftly identifying the core of a task, question, or problem and assimilating the background and context. Data engineering whiz. Weaknesses include issues with executive functioning, interpersonal skills, and sometimes simply doing what I have been asked to do._
+_I'm a Ph.D. physicist turned biomedical data scientist. I have several exceptional strengths: Keen and discerning scientific mind. Ability to swiftly identify the essence of a task, question, or problem, then assimilate the background and context. Wizardry with data engineering and a tenacious drive for consistency, accuracy, and efficiency. Weaknesses include problems with executive functioning, interpersonal skills, and sometimes simply doing what I have been asked to do._
 
 _My Primary skills include bioinformatics (NGS, genomics, microbiome), statistics (methods, analysis, modeling), mathematical modeling, programming (R, Python, etc.), Data Engineering (cleaning, harmonizing, ETL, ELT, No-ETL), visualization, and technical and non-technical writing._
 
 _I was diagnosed with autism in 2022 and ADHD in 2021, which I treat with medication. This information has helped me understand past challenges at work and school and how I have struggled to succeed professionally and socially. I have an immense amount to offer if I can be accepted, understood, and supported. While I can sometimes be a difficult employee to manage, I 100% commit to my work and bring an uncanny level of creativity and insight._
-_
-Right now, I align with the neurodivergence paradigm. I see my autistic traits and behaviors as integral to who I am physically and cognitively, and not things I implicitly need to correct or mask. To help my colleagues feel respected and at ease, I can generally conduct myself in ways that non-autistic people find more acceptable. Sometimes I can't._
 
-_If you are open to hiring someone who is respectfully insubordinate but has extraordinary ideas and the wherewithal to implement them, I believe you will be glad you gave me a chance to work for you._
+_Right now, I align with the neurodivergence paradigm. I see my autistic traits and behaviors as integral to who I am physically and cognitively and not things I implicitly need to correct or mask. To help my colleagues feel respected and at ease, I can generally conduct myself in ways that non-autistic people find more acceptable. Sometimes I can't._
+
+_If you are open to hiring someone who can be respectfully insubordinate but is endowed with remarkable ingenuity and perseverance, I believe you will be glad you gave me a chance to work for you._
 
 # Accomplishments
 - Launched a corporate-academic collaborative research project integrating multiple large-scale public genomic 
