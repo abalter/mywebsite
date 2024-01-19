@@ -1,7 +1,7 @@
 
 EMPLOYMENT
 ----------
-**11/21/2022-present: Senior Research Engineer** (Oregon Health and Science University, Portland OR)  
+**11/21/2022-9/30/2023: Senior Research Engineer** (Oregon Health and Science University, Portland OR)  
 
 **06/01/2022-: Computational Biology Contractor** (Katana Graph and University of Michigan)
 
