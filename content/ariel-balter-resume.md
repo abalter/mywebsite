@@ -53,9 +53,9 @@ _If you are open to hiring someone who can be respectfully insubordinate but is 
 
 
 # Employment
-**11/21/2022-present:** Senior Research Engineer, Oregon Health and Science University, Portland OR  
+**06/01/2022-present:** Biomedical Data Science Contractor (Portland State University)
 
-**06/01/2022-:** Computational Biology Contractor (Katana Graph and University of Michigan)
+**11/21/2022-9/30/2023:** Senior Research Engineer, Oregon Health and Science University, Portland OR  
 
 **08/24/2020-06/08/2022:** Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
 
