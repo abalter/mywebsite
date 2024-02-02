@@ -53,24 +53,146 @@ _If you are open to hiring someone who can be respectfully insubordinate but is 
 
 
 # Employment
-**06/01/2022-present:** Biomedical Data Science Contractor (Portland State University)
+# Employment
 
-**11/21/2022-9/30/2023:** Senior Research Engineer, Oregon Health and Science University, Portland OR  
+**06/01/2022—Present: **Biomedical Data Science Contractor
 
-**08/24/2020-06/08/2022:** Bioinformatics Scientist, Providence Portland Medical Center, Portland OR  
+**_Accomplishments:_**
 
-**2017-03/31/2020:** Computational Biologist, Casey Eye Institute, Oregon Health and Science University, Portland OR  
 
-**11/2015-04/2018:**
 
-**2014-2015:** IT Specialist, HAMMER Volpentest Federal Training Center, Richland WA  
+* Data Engineering and Curation (curation, sourcing, cleaning, normalization, harmonization, ETL). Cloud database design and management.
+* Statistical modeling and analysis using R, Python, and Bash
+* Linux command line operations and Bash shell scripting
+* Bioinformatics: pipeline development, analysis, variant calling, RNA-Seq, ChIP-Seq, Proteomics, next-generation sequencing (NGS), transcriptomics, etc.
+* Using cloud computing (Google Cloud Platform) technology such as virtual machines and databases
+* Genomics subject matter expert for using publically available oncology datasets and databases for cancer drug discovery.
 
-**2012-2013:** Adjunct Physics Instructor, Research Scientist, Washington State University, Richland, WA  
+**11/21/2022-9/30/2023: **Senior Research Engineer, Center for Health Systems Effectiveness (OHSU)
 
-**2009-2012:** Postdoctoral Research Assistant, Pacific Northwest National Laboratory, Richland, WA   
+**_Accomplishments:_**
 
-**1998-2008:** Physics Lecturer, Postdoctoral Research Assistant (Biocomplexity Institute), Student Mentor and Undergraduate Research Supervisor, Graduate Research Associate, Associate Instructor, Indiana University, Bloomington, IN
 
+
+* Simplified and accelerated pipelines for staging Medicaid health records running on a high-performance computing (HPC) cluster.
+* Simplified and accelerated analytical pipelines for Medicaid health record analysis (HEDIS Quality Measures) running on a high-performance computing (HPC) cluster.
+* Led improvements in computing resources, programming, and analytical workflows.
+* Created education materials to improve computation methods.
+
+**08/24/2020-06/08/2022: **Bioinformatics Scientist, Providence Portland Medical Center, Portland OR
+
+**_Accomplishments:_**
+
+
+
+* Launched a business-academic collaborative research project integrating multiple large-scale public genomic data sets (DepMap, GDSC, etc.)  into a graph database for machine learning, cancer drug repurposing, and genomic and functional analysis.
+* Data curation and data engineering. Combined clinical genomic data with public genomic data, including next-generation sequencing (NGS) transcriptomics multi-cell RNA-Seq, DNA-Seq, WES, WGS, and panel sequencing to help predict disease risk.
+* Maintained and managed multiple BigQuery (Google Cloud Platform) databases through scripted data, acquisition, cleaning, harmonization, and ETL.
+* Incorporated multiple data formats, including databases, FASTA files, JSON, CSV, and TSV
+* Helped develop dockerized genomic analysis pipelines with Linux Bash scripting, R, Python, and Docker
+* Statistical modeling and analysis using R, Python, and Rmarkdown
+* Unix/Linux command line operations and Bash shell scripting
+
+**08/15/2018-03/31/2020:** Computational Biologist, Casey Eye Institute, Oregon Health and Science University, Portland OR
+
+**_Accomplishments:_**
+
+
+
+* Processed next-generation sequencing (NGS) microbiome data. Performed differential abundance analysis and functional analysis (KEGG).
+* Statistical analysis for a human subjects study
+* Created a reproducible pipeline using R, Rmarkdown, and Bash for statistical analysis of microbiome data with Bioconductor tools and other packages
+* Performed analysis on a high-performance computing (HPC) cluster using SLURM
+* Incorporated multiple data formats, including databases, FASTA files, JSON, CSV, and TSV
+* Contributed to publications
+
+**11/15/2015-04/01/2017:** Computational Biologist, Bioinformatics Core, Oregon Health and Science University, Portland OR
+
+**_Accomplishments:_**
+
+
+
+* Created reproducible, templated pipelines using Bash and Python scripting,  standard command-line bioinformatics tools, and Bioconductor packages for next-generation sequencing (NGS) transcriptomics analysis (ChIP-Seq, RNA-Seq) on a high-performance computing (HPC) cluster using HT Condor and SLURM.
+* Accessed and processed public data sets such as the human genome, mouse genome.
+* Incorporated multiple data formats, including databases, FASTA files, JSON, CSV, and TSV
+* Designed and coded real-time dashboard plots for a web-based lab notebook for targeted cancer treatment trials (Javascript, Plotly)
+* Contributed to three publications by providing next-generation sequence analysis and increasing an image processing pipeline throughput by 100x.
+* Coordinated and interfaced between multiple research groups and clients.
+* Planned and led workshops on computational skills and methods.
+
+**07/2014-11/2015: **IT Specialist, HAMMER Volpentest Federal Training Center, Richland WA
+
+**_Accomplishments:_**
+
+
+
+* Database design and implementation (MS Access and MS Excel)
+* Library information system design, testing, and implementation
+* Coldfusion web application programming
+
+**01/2013-01/2014:** Research Scientist, Washington State University, Richland, WA
+
+**_Accomplishments:_**
+
+
+
+* Multilevel, cell-based modeling of epidermis growth
+
+**01/2012-05/2012, 09/2012-12/2012: ** Adjunct Physics Instructor, Washington State University, Richland, WA
+
+**_Accomplishments:_**
+
+
+
+* Taught lecture and lab section for calculus-based introductory physics for undergraduates.
+
+**02/2009-12/2012: **Postdoctoral Research Assistant, Pacific Northwest National Laboratory, Richland, WA
+
+**_Accomplishments:_**
+
+
+
+* Created a novel stochastic mathematical and computational model for diffusion, incorporating density fluctuations using Matlab and Bash on high-performance clusters.
+* Created a novel mathematical and computational model to interface a stochastic surface reaction to continuous field diffusion.
+* Created a novel analytical solution to a stochastic reaction-diffusion equation that captures the anomalous reaction rate. 
+
+**09/2006-01/2008:** Physics Lecturer, Indiana University, Bloomington IN
+
+**_Accomplishments:_**
+
+
+
+* Taught lecture sections for undergraduate physics classes
+
+**05/2005-05/2008:** Postdoctoral Research Associate, Biocomplexity Institute, Bloomington IN
+
+**_Accomplishments:_**
+
+
+
+* Created a multi-level, cell-based computational model of chicken gastrulation that elucidated the role of both physical cell-cell interactions and signaling proteins. (Python and Bash)
+* Helped improve and refine the Glazier-Graner-Hogoweg agent-based computational morphogenesis model.
+* Contributed to papers and book chapters.
+
+**05/2001-05/2005:** Graduate Research Assistant, Indiana University, Bloomington IN
+
+**_Accomplishments:_**
+
+
+
+* Thesis work on theoretical and computational modeling of actin-based bacterial motility (Matlab and Fortran)
+* Worked in the free physics tutoring clinic
+* Participated in physics community outreach and education
+
+**09/1998-5/2001:** Associate Instructor, Indiana University, Bloomington IN
+
+**_Accomplishments:_**
+
+
+
+* Taught lab classes for physics undergraduate students
+* Worked in the free physics tutoring clinic
+* Participated in physics community outreach and education
 
 # Education
 **AAS (2015) (_Software Development_).**  Columbia Basin College, Pasco, WA
