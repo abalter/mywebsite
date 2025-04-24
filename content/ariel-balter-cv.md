@@ -1,17 +1,19 @@
 
 EMPLOYMENT
 ----------
-**06/01/2022-present: Biomedical Data Science Contractor** (Portland State University)
+**11/01/2024-present: Founder/Director:** (Autism All Grown Up, Portland OR)
+
+**06/01/2022-12/31/2023: Biomedical Data Science Contractor** (Portland State University)
 
 **11/21/2022-9/30/2023: Senior Research Engineer** (Oregon Health and Science University, Portland OR)  
 
 **08/24/2020-06/01/2022: Bioinformatics Scientist** Providence Portland Medical Center, Portland OR
 
-**07/2018-03/31/2020: Computational Biologist** Oregon Health and Science University, Portland OR
+**07/25/2018-03/31/2020: Computational Biologist** Oregon Health and Science University, Portland OR
 
-**11/2015-06/2017: Computational Biologist** Oregon Health and Science University, Portland OR  
+**11/15/2015-06/15/2017: Computational Biologist** Oregon Health and Science University, Portland OR  
 
-**7/2014-11/2015: IT Specialist** HAMMER Volpentest Federal Training
+**7/01/2014-11/15/2015: IT Specialist** HAMMER Volpentest Federal Training
 Center, Richland Washington  
 
 **2012-2013: Adjunct Physics Instructor** Washington State University,
