@@ -1,4 +1,4 @@
-var debug_level = 0;
+var debug_level = 3;
 
 class Atto {
     constructor(configs) {
