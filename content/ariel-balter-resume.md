@@ -6,7 +6,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Founder / Director**
 
-### Autism All Grown Up ([https://aagu.org](https://aagu.org))  11/2024 \- Present
+### Autism All Grown Up ([https://aagu.org](https://aagu.org)) 11/2024 \- Present</span>
 
 * Founded and directs a nonprofit focused on the unmet needs of Autistic adults in Oregon, Securing over $60k of funding in less than six months.
 
@@ -20,7 +20,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Biomedical Data Scientist**
 
-### Freelancer  08/2022 \- 12/2023
+### Freelancer 08/2022 \- 12/2023
 
 * Worked with collaborators to launch a corporate-academic collaborative research project integrating multiple large-scale public genomic data sets into a graph database suitable for machine learning, oncology, and oncological drug repurposing.
 
@@ -28,7 +28,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Senior Research Engineer**
 
-### OHSU | Center for Health Systems Effectiveness      11/2022 \- 10/2023
+### OHSU | Center for Health Systems Effectiveness 11/2022 \- 10/2023
 
 * Reduced compute time of a data analysis pipeline for calculating quality measures by 90% by parallelizing and porting to a high-performance computing (HPC) SLURM cluster, increasing researchers' access to data.
 
@@ -42,7 +42,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Bioinformatics Scientist**
 
-### Providence | Earl A. Chiles Research Institute      08/2020 \- 06/2022
+### Providence | Earl A. Chiles Research Institute 08/2020 \- 06/2022
 
 * Created a reproducible ETL pipeline for generating a drug-repurposing graph database that cleans, harmonizes, and processes over four billion rows of data from 10 different cancer databases, including clinical variants, clinical tumor sequencing data, tumor cell-line drug response data, variant allele frequencies, and gene essentiality.
 
@@ -54,7 +54,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Computational Biologist**
 
-### OHSU | Casey Eye Institute  07/2018 \- 04/2020
+### OHSU | Casey Eye Institute 07/2018 \- 04/2020
 
 * Extracted obscured information from messy human microbiome data by fine-tuning statistical models.
 
@@ -64,7 +64,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Computational Biologist**
 
-### Oregon Health & Science University, Bioinformatics Core     11/2015 \- 06/2017
+### Oregon Health & Science University, Bioinformatics Core 11/2015 \- 06/2017
 
 * Automated image region selection for an IHC image analysis pipeline, increasing throughput 100x and allowing high-throughput analysis for cancer research.
 
@@ -80,7 +80,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **IT Support Technician**
 
-### Volpentest HAMMER Federal Training Center   08/2014 \- 11/2015
+### Volpentest HAMMER Federal Training Center 08/2014 \- 11/2015
 
 * Helped develop a ColdFusion website to publish and schedule safety courses to be used on the Hanford site.
 
@@ -90,29 +90,29 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 # Education
 
-### AAS in Computer Science     2013
+### AAS in Computer Science 08/2013
 
 Columbia Basin College
 
-### Ph.D. in Physics    2005
+### Ph.D. in Physics 05/2005
 
 Indiana University Bloomington
 
-### Bachelor of Science in Physics      1998
+### Bachelor of Science in Physics 06/1998
 
 The Evergreen State College
 
 # Certifications
 
-### Human Subjects Research (HSR)       11/2022 \- 11/2025
+### Human Subjects Research (HSR) 11/2022 \- 11/2025
 
-### Responsible Conduct of Research (RCR)       11/2022 \- 11/2025
+### Responsible Conduct of Research (RCR) 11/2022 \- 11/2025
 
-### Research Investigators and Key Personnel and IRB Members.   01/2021 \- 01/2024
+### Research Investigators and Key Personnel and IRB Members 01/2021 \- 01/2024
 
-# Awards & Scholarships
+# Award
 
-### Outstanding Graduate Student in Research    2005
+### Outstanding Graduate Student in Research 05/2005
 
 Indiana University
 
@@ -127,3 +127,16 @@ Indiana University
 **Healthcare Analytics:** ICD-10, CPT, HCPCS, CMS, SNOMED, Medicaid claims, Quality Metrics (HEDIS).
 
 **Linux & Systems Administration:** Server configuration, Web servers, Package management, SLURM, HTCondor.
+
+# STEM Outreach
+
+**2016, OHSU Data Jamborees:** Organized educational events with
+speakers and workshops on data analysis skills and computational
+resources at OHSU. Led workshop sessions.
+
+**1998-2007, IU Physics Department Open House:** Designed and built new
+displays and activities. Participated in setup and docenting.
+
+**2007-2008, Wonderlab:** Helped design and build exhibits for a
+children's science museum in Bloomington (IN).
+
