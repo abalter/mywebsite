@@ -6,7 +6,7 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 ## **Founder / Director**
 
-### Autism All Grown Up ([https://aagu.org](https://aagu.org)) 11/2024 \- Present</span>
+### Autism All Grown Up ([https://aagu.org](https://aagu.org)) 10/2023 \- Present</span>
 
 * Founded and directs a nonprofit focused on the unmet needs of Autistic adults in Oregon, Securing over $60k of funding in less than six months.
 
@@ -90,31 +90,25 @@ Scientist and engineer with a Ph.D. in physics and extensive experience in data 
 
 # Education
 
-### AAS in Computer Science 08/2013
-
-Columbia Basin College
-
 ### Ph.D. in Physics 05/2005
 
 Indiana University Bloomington
 
+**AWARD:** _Outstanding Graduate Student in Research
+
 ### Bachelor of Science in Physics 06/1998
 
 The Evergreen State College
+
+### AAS in Computer Science 08/2013
+
+Columbia Basin College
 
 # Certifications
 
 ### Human Subjects Research (HSR) 11/2022 \- 11/2025
 
 ### Responsible Conduct of Research (RCR) 11/2022 \- 11/2025
-
-### Research Investigators and Key Personnel and IRB Members 01/2021 \- 01/2024
-
-# Award
-
-### Outstanding Graduate Student in Research 05/2005
-
-Indiana University
 
 # Skills
 
