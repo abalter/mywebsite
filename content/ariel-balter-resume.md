@@ -1,6 +1,6 @@
 # **Summary**
 
-Scientist and engineer with a Ph.D. in physics and extensive experience in data engineering and biomedical data science, including bioinformatics and biostatistics. Specializes in complex data curation, analysis pipeline development on high-performance computing clusters, and cloud-based computational infrastructure. Dedicated to leveraging data to address real-world challenges.
+Ph.D. scientist (physics) with extensive experience in data engineering and biomedical data science, including bioinformatics and biostatistics. Specializes in complex data curation, analysis pipeline development on high-performance computing clusters, and cloud-based computational infrastructure. Dedicated to leveraging data to address real-world challenges.
 
 # Work Experience
 
