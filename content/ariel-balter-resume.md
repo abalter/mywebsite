@@ -94,7 +94,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 Indiana University Bloomington
 
-**AWARD:** _Outstanding Graduate Student in Research
+**AWARD:** Outstanding Graduate Student in Research
 
 ### Bachelor of Science in Physics 06/1998
 
