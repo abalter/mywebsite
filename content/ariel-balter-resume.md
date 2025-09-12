@@ -6,7 +6,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 ## **Founder / Director**
 
-### Autism All Grown Up ([https://aagu.org](https://aagu.org)) 10/2023 \- Present</span>
+### Autism All Grown Up ([https://aagu.org](https://aagu.org))  10/2023 \- Present</span>
 
 * Founded and directs a nonprofit focused on the unmet needs of Autistic adults in Oregon, Securing over $60k of funding in less than six months.
 
@@ -28,7 +28,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 ## **Senior Research Engineer**
 
-### OHSU | Center for Health Systems Effectiveness 11/2022 \- 10/2023
+### OHSU | Center for Health Systems Effectiveness  11/2022 \- 10/2023
 
 * Reduced compute time of a data analysis pipeline for calculating quality measures by 90% by parallelizing and porting to a high-performance computing (HPC) SLURM cluster, increasing researchers' access to data.
 
@@ -42,7 +42,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 ## **Bioinformatics Scientist**
 
-### Providence | Earl A. Chiles Research Institute 08/2020 \- 06/2022
+### Providence | Earl A. Chiles Research Institute  08/2020 \- 06/2022
 
 * Created a reproducible ETL pipeline for generating a drug-repurposing graph database that cleans, harmonizes, and processes over four billion rows of data from 10 different cancer databases, including clinical variants, clinical tumor sequencing data, tumor cell-line drug response data, variant allele frequencies, and gene essentiality.
 
@@ -54,7 +54,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 ## **Computational Biologist**
 
-### OHSU | Casey Eye Institute 07/2018 \- 04/2020
+### OHSU | Casey Eye Institute  07/2018 \- 04/2020
 
 * Extracted obscured information from messy human microbiome data by fine-tuning statistical models.
 
@@ -64,7 +64,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 ## **Computational Biologist**
 
-### Oregon Health & Science University, Bioinformatics Core 11/2015 \- 06/2017
+### Oregon Health & Science University, Bioinformatics Core  11/2015 \- 06/2017
 
 * Automated image region selection for an IHC image analysis pipeline, increasing throughput 100x and allowing high-throughput analysis for cancer research.
 
@@ -80,7 +80,7 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 ## **IT Support Technician**
 
-### Volpentest HAMMER Federal Training Center 08/2014 \- 11/2015
+### Volpentest HAMMER Federal Training Center  08/2014 \- 11/2015
 
 * Helped develop a ColdFusion website to publish and schedule safety courses to be used on the Hanford site.
 
@@ -90,25 +90,25 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 # Education
 
-### Ph.D. in Physics 05/2005
+### Ph.D. in Physics  05/2005
 
 Indiana University Bloomington
 
 **AWARD:** Outstanding Graduate Student in Research
 
-### Bachelor of Science in Physics 06/1998
+### Bachelor of Science in Physics  06/1998
 
 The Evergreen State College
 
-### AAS in Computer Science 08/2013
+### AAS in Computer Science  08/2013
 
 Columbia Basin College
 
 # Certifications
 
-### Human Subjects Research (HSR) 11/2022 \- 11/2025
+### Human Subjects Research (HSR)  11/2022 \- 11/2025
 
-### Responsible Conduct of Research (RCR) 11/2022 \- 11/2025
+### Responsible Conduct of Research (RCR)  11/2022 \- 11/2025
 
 # Skills
 
