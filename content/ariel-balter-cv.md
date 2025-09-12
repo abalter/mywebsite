@@ -67,7 +67,7 @@ PUBLICATIONS (peer reviewed)
   
 **A diet rich in fermentable fiber promotes robust changes in the intestinal microbiota, mitigates intestinal permeability, and attenuates autoimmune uveitis** _Yukiko K. Nakamura, et al._ [Nature Scientific Reports volume 13, Article number: 10806 (2023)](https://www.nature.com/articles/s41598-023-37062-8)
 
-**Swept-source optical coherence tomography objective composite activity score for uveitis** _Llorenç et al._ [Acta Ophthalmol](https://onlinelibrary.wiley.com/doi/10.1111/aos.14739), 09 January 2021
+**Swept-source optical coherence tomography objective composite activity score for uveitis** _Llorenç et al._ [Acta Ophthalmol, 09 January 2021](https://onlinelibrary.wiley.com/doi/10.1111/aos.14739)
 
 **BET Bromodomain Inhibition Blocks the Function of a Critical AR-Independent Master Regulator Network in Lethal Prostate Cancer** _Coleman et al._ [Nature: Oncogene, 17 April 2019](https://www.nature.com/articles/s41388-019-0815-5)
 
