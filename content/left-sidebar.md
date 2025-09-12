@@ -1,7 +1,7 @@
 ![Ariel Balter](assets/img/ArielBalterHeadshot-600x600.jpg)
 
 ----------------------------------------------------------------------------------------------
-ARIEL BALTER, Ph.D  
+ARIEL BALTER, Ph.D.
 
 >"Don't believe everything you think." &mdash; _Allan Lokos_  
  
