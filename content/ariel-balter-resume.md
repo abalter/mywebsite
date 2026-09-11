@@ -4,9 +4,18 @@ Ph.D. scientist (physics) with extensive experience in data engineering and biom
 
 # Work Experience
 
+## **Analytic Scientist**
+
+### Nationwide Insurance, Columbus, OH (remote)	12/2025-Present
+* Built a GAM pricing model for Pet insurance that reduces loss ratio by 30% and reduces adverse selection by 20%.
+* Created a systematic model selection pipeline for workforce management projections that reduced staffing forecast errors by 50% by using stacked ensemble models.
+* Created an end-to-end pipeline for time series robustness testing and scenario testing that enables spike and surge remediation for workforce management forecasts. 
+* Assisted with company transition from on-prem GitHub to GitHub.com by creating user guides for installing and using the GitHub CLI, including in AWS SageMaker environments. 
+* Built a proof-of-principle live data dashboard for Nationwide's Claims Feature Store.
+
 ## **Founder / Director**
 
-### Autism All Grown Up ([https://aagu.org](https://aagu.org))  10/2023 \- Present</span>
+### Autism All Grown Up ([https://aagu.org](https://aagu.org))  10/2023 \- Present
 
 * Founded and directs a nonprofit focused on the unmet needs of Autistic adults in Oregon, Securing over $60k of funding in less than six months.
 
