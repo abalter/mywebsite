@@ -1,7 +1,6 @@
 
 # PUBLICATIONS (peer reviewed)
-
-**AREDS and genetic risk score are crucial determinants of intestinal microbial alterations in advanced age-related macular degeneration** _Neda Dadgar, et al._ [Ophthalmology Science, 100920 (2025)](https://doi.org/10.1016/j.xops.2025.100920)
+**Age-related Eye Disease Studies Supplements and Genetic Risk Score Are Crucial Determinants of Intestinal Microbial Alterations in Advanced Age-Related Macular Degeneration** _Neda Dadgar, et al._ [Ophthalmology Science, 100920 (2025)](https://doi.org/10.1016/j.xops.2025.100920)
   
 **A diet rich in fermentable fiber promotes robust changes in the intestinal microbiota, mitigates intestinal permeability, and attenuates autoimmune uveitis** _Yukiko K. Nakamura, et al._ [Nature Scientific Reports volume 13, Article number: 10806 (2023)](https://www.nature.com/articles/s41598-023-37062-8)
 
